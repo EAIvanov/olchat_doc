@@ -1,0 +1,135 @@
+# Что нового?
+
+## 16.06.2023
+
+### Что нового добавили?
+
+1. Входящие голосовые сообщения теперь могут быть преобразованы в текст! Эта функция доступна в тестовом режиме – сообщения до 30 секунд расшифровываются бесплатно. В дальнейшем планируем добавить безлимитную расшифровку сообщений за отдельную плату [poluchenie-i-otpravka-soobshenii](ispolzovanie/poluchenie-i-otpravka-soobshenii/ "mention")
+2. Добавили REST API для WhatsApp, позволяющий интегрировать наш сервис с другими интерфейсами и сервисами. Теперь вы можете отправлять сообщения и файлы в WhatsApp, проверять WA на номере, проверять статусы линии и сообщений там, где вам удобно [rest-api-dlya-raboty-s-whatsapp.md](ispolzovanie/rest-api-dlya-raboty-s-whatsapp.md "mention")
+3. Мы заботимся о наших клиентах и понимаем, что в череде бесконечных дел, не всегда получается оплатить наш сервис заранее. Теперь, если не оплатили вовремя, коннектор не будет отключен и продолжит работать до конца дня по Москве. Вы сможете оставаться на связи с клиентами, пока производите оплату.
+4. В настройках коннектора добавили возможность устанавливать интервалы между отправкой сообщений в WhatsApp [#5-nastroiki-chata](ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-nastroek-konnektora.md#5-nastroiki-chata "mention")
+5. Мы ценим ваше время, больше не нужно вручную отключать нежелательные сообщения клиентам в настройках Открытой линии. Теперь при первом подключении коннектора Автоматическое приветствие и Оценка качества по умолчанию выключены. Снизили риск блокировок.
+6. При создании WhatsApp-рассылки через CRM-Маркетинг, теперь можно не только просмотреть отчёт в нашем приложении, но и выгрузить его в Excel, чтобы рассчитать конверсию [stranica-prosmotra-statusov-rassylok-crm-marketinga.md](rassylka-soobshenii/stranica-prosmotra-statusov-rassylok-crm-marketinga.md "mention")
+7. Обновили робота «Отправка оформленной ссылки». Теперь отправляет с предпросмотром ссылки [otpravka-ssylki.md](roboty-i-aktiviti/roboty/otpravka-ssylki.md "mention")
+
+### Исправления
+
+1. Внесли изменения на страницу настроек коннектора. Теперь наверху удобно отслеживать статус подключения и номер телефона, вниз перенесли до какого числа линия оплачена [#2-3-bloki-so-statusami-podklyucheniya](ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-nastroek-konnektora.md#2-3-bloki-so-statusami-podklyucheniya "mention")
+2. Решена проблема в Открытых линиях со статусом «сообщение не доставлено» с файлами, когда оно доставлено.
+
+Также мы исправили ряд ошибок, чтобы сделать работу с нашим сервисом еще более удобной и эффективной. Мы ценим вашу поддержку и благодарим вас за то, что выбрали нас. Мы постоянно работаем над улучшением нашего сервиса и надеемся, что вам понравятся эти обновления.
+
+## 14.12.2022
+
+1. В виджете OLChat теперь отображается информация о том, в каком регионе зарегистрирован номер клиента, информация об операторе и времени клиента [vidzhet-statusy-i-chaty.md](ispolzovanie/vidzhety-v-kartochke-crm/vidzhet-statusy-i-chaty.md "mention")
+2. Теперь можно увидеть всю доступную для веб-версии WhatsApp переписку, даже если раньше у вас не была подключена интеграция WhatsApp с Битрикс24 или подключена другая интеграция (приложение) [#istoriya-chata-s-klientom](ispolzovanie/vidzhety-v-kartochke-crm/vidzhet-statusy-i-chaty.md#istoriya-chata-s-klientom "mention")
+3. Можно записывать и отправлять голосовые сообщения клиентам в WhatsApp прямо из вашего Битрикс24 с помощью приложения OLChat [#otpravka-soobshenii](ispolzovanie/poluchenie-i-otpravka-soobshenii/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md#otpravka-soobshenii "mention")
+4. Если у вас подключена телефония, в карточку звонка подгружается чат с клиентом. При звонке удобно отслеживать, о чём была речь в переписке [vstroika-v-kartochku-zvonka.md](ispolzovanie/vidzhety-v-kartochke-crm/vstroika-v-kartochku-zvonka.md "mention")
+5. Добавили нового робота «Ожидание сообщения». С его помощью можно создавать различные сценарии автоматизации и настраивать, что должно происходить при получении того или иного ответа от клиента [ozhidanie-soobsheniya.md](roboty-i-aktiviti/roboty/ozhidanie-soobsheniya.md "mention")
+6. Добавили новых роботов для групповых чатов. Теперь вы можете автоматизировать отправку сообщений, файлов, ссылок, контактов в группу и многое другое [robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov](gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/ "mention")
+7. Создали нового робота «Управление открытой линией». Он умеет автоматически совершать действия для текущего оператора диалога – принять диалог на текущего оператора, забрать диалог у текущего оператора или пропустить[upravlenie-otkrytoi-liniei.md](roboty-i-aktiviti/roboty/upravlenie-otkrytoi-liniei.md "mention")
+8. Добавили робота «Создание Открытой линии» [sozdanie-chata-ol.md](roboty-i-aktiviti/roboty/sozdanie-chata-ol.md "mention")
+9. Добавили робота «Информация о диалоге» [informaciya-o-dialoge.md](roboty-i-aktiviti/roboty/informaciya-o-dialoge.md "mention")
+10. Положили конец проблеме c прослушиванием голосовых сообщений на iPhone и macOs. Теперь голосовые можно открывать и прослушивать через альтернативную ссылку
+
+## 16.11.2022
+
+### Что нового добавили?
+
+1. Теперь при отправке сообщения роботом проверка номера осуществляется сразу при отправке сообщения. Если указан номер, на котором нет WhatsApp, в дополнительных результатах выполнения робота вы получите ошибку «NW». Подробнее в статье [proverka-telefona.md](roboty-i-aktiviti/roboty/proverka-telefona.md "mention")
+2. Описания ошибок в новых роботах теперь на русском человеческом. Теперь, например, при получении значения «NW» в «Описании ошибки» вы увидите: Нет номеров WhatsApp. Подробнее в статьях [kak-vyvesti-rezultat-raboty-robota-v-kommentarii.md](roboty-i-aktiviti/otladka-i-poisk-oshibok/kak-vyvesti-rezultat-raboty-robota-v-kommentarii.md "mention") и [opisanie-oshibok-vozvrashaemykh-robotami-i-aktiviti-biznes-processov.md](roboty-i-aktiviti/otladka-i-poisk-oshibok/opisanie-oshibok-vozvrashaemykh-robotami-i-aktiviti-biznes-processov.md "mention")
+3. Добавили поддержку Смарт-процессов и возможность использовать виджет «OLChat WhatsApp — статусы и чаты» в карточке Смарт-процесса. Подробнее в статье [#kak-pokazat-vidzhet-statusy-i-chaty-v-kartochke-smart-processa](ispolzovanie/vidzhety-v-kartochke-crm/#kak-pokazat-vidzhet-statusy-i-chaty-v-kartochke-smart-processa "mention")
+4.  Отправили бота-помощника на курсы повышения квалификации. Теперь он может:
+
+    * Добавлять в название чата текущую стадию лида/сделки, привязанную к диалогу
+    * Добавлять параметры из полей сущностей CRM
+
+    Подробнее в статье [#opisanie-parametrov-bota](bot-pomoshnik.md#opisanie-parametrov-bota "mention")
+5. Добавили волшебства в работу с товарами Битрикс24. Теперь клиенту отправляется товар в удобочитаемом виде без табличного форматирования. Подробнее в статье [rabota-s-tovarnymi-poziciyami.md](keisy/raznoe/rabota-s-tovarnymi-poziciyami.md "mention")
+6. &#x20;Добавили Робота и Активити бизнес-процессов «Отправка сообщений со списком выбора». Подробнее в статьях Робот: [otpravka-soobsheniya-so-spiskom-vybora.md](roboty-i-aktiviti/roboty/otpravka-soobsheniya-so-spiskom-vybora.md "mention") и Активити: [otpravka-soobsheniya-so-spiskom-vybora.md](roboty-i-aktiviti/deistviya-aktiviti-biznes-processov/otpravka-soobsheniya-so-spiskom-vybora.md "mention")
+7. Сделали автоплатёж через Робокассу для тех, кто устал возиться с оплатой каждый месяц
+
+### А что прокачали?
+
+1. В Роботе и Активити бизнес-процессов «Отправка контакта» теперь отправляется ФИО, номер телефона и название компании. Подробнее в статьях Робот: [otpravka-kontakta.md](roboty-i-aktiviti/roboty/otpravka-kontakta.md "mention") и Активити: [otpravka-kontakta.md](roboty-i-aktiviti/deistviya-aktiviti-biznes-processov/otpravka-kontakta.md "mention")
+2. В настройке прав добавили возможность показывать страницу с линиями только администратору, чтобы никто не подглядывал. Подробнее в статье [#pravo-na-prosmotr-stranicy-prilozheniya](ustanovka-i-nastroika/nastroika-prav-dlya-raboty-s-prilozheniem-olchat.md#pravo-na-prosmotr-stranicy-prilozheniya "mention")
+3. Все телефоны в одном виджете. Если у вас к сущности CRM прикреплено несколько контактов или компаний, в виджет OLChat подтянутся телефоны из всех карточек (до 10 телефонов).
+4. Теперь в деле о пропущенном звонке отображается дата и время звонка.
+
+### ГРУППОВЫЕ ЧАТЫ
+
+### Добавили:
+
+1. Возможность поменять аватарку и название группы в интерфейсе настроек группового чата. Подробнее в статье [#opisanie-nastroek-grupp](gruppovye-chaty/gruppy.md#opisanie-nastroek-grupp "mention")
+2. При подключении группового чата, теперь список групп отсортирован по алфавиту и есть возможность быстрого поиска по названию. Подробнее в статье [#podklyuchenie-grupp](gruppovye-chaty/gruppy.md#podklyuchenie-grupp "mention")
+3. Возможность удаления участников групп в интерфейсе настроек группового чата. Подробнее в статье [#opisanie-nastroek-grupp](gruppovye-chaty/gruppy.md#opisanie-nastroek-grupp "mention")
+4. Сообщения с телефона и роботов публикуются в групповом чате.
+5.  Научили бота командам для управления составом участников групп:
+
+    * /add\_bitrix\_user @Упоминание пользователя – Добавляет сотрудника портала в чат
+    * /remove\_bitrix\_user @Упоминание пользователя – Удаляет сотрудника портала из чата
+    * /remove\_whatsapp\_user Номер пользователя – Добавляет номер в группу WhatsApp
+    * /add\_whatsapp\_user Номер пользователя – Удаляет номер из группы WhatsApp
+
+    Подробнее в статье [upravlenie-sostavom-uchastnikov-grupp-s-pomoshyu-komand-v-chate.md](gruppovye-chaty/upravlenie-sostavom-uchastnikov-grupp-s-pomoshyu-komand-v-chate.md "mention")
+
+### Исправили:
+
+1. Исправили ошибки при подключении/отключении групповых чатов. А ещё теперь выводятся подробности ошибок.
+
+## 08.11.2021
+
+### Новые возможности
+
+* Поддержка версии WhatsApp для нескольких устройств (мультидевайс). [Подробнее](broken-reference)
+* Статусы сообщений (галочки) в чатах открытых линий. [Подробнее](ispolzovanie/poluchenie-i-otpravka-soobshenii/)
+* Удаление сообщений в чатах WhatsApp при удалении чатов из открытой линии. [Подробнее](ispolzovanie/poluchenie-i-otpravka-soobshenii/)
+* Страница отправки сообщений из мобильного приложения Битрикс24. [Подробнее](ispolzovanie/poluchenie-i-otpravka-soobshenii/otpravka-soobshenii-iz-mobilnogo-prilozheniya-bitriks24.md)
+* Страница просмотра статусов рассылок CRM-маркетинга. [Подробнее](rassylka-soobshenii/stranica-prosmotra-statusov-rassylok-crm-marketinga.md)
+* Шорткоды. [Подробнее](shortkody.md)
+* Бот-помощник. [Подробнее](bot-pomoshnik.md)
+* Добавление приложения в карточку CRM «Заказы». [Подробнее](ispolzovanie/poluchenie-i-otpravka-soobshenii/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md)
+* Автоответчик. Сообщение клиенту при пропущенном звонке. [Подробнее](avtootvetchik.md)
+* Автоответчик. Сообщение клиенту при голосовом сообщении. [Подробнее](avtootvetchik.md)
+
+### Новые настройки
+
+* Ссылка на QR-код. Теперь можно делиться ссылкой и сканировать код, даже, если нет доступа к порталу. [Подробнее](broken-reference)
+* Права доступа к коннектору: Добавлены права на группы и отделы. [Подробнее](https://docs.olchat.io/ustanovka-i-nastroika/nastroika-prav-dlya-raboty-s-prilozheniem-olchat#prava-na-konnektor-linii)
+* Установка прав администратора в приложении (полезно, если поменялся администратор). [Подробнее](https://docs.olchat.io/ustanovka-i-nastroika/nastroika-prav-dlya-raboty-s-prilozheniem-olchat#ustanovka-prav-administratora-v-prilozhenii)
+
+### Бот-помощник. [Подробнее](bot-pomoshnik.md)
+
+* Устанавливает тему чата по шаблону
+* Устанавливает и обновляет изображение контакта клиента в CRM
+* Запись идентификатора аналитики Roistat, ClientID, UserID и т.д. в поле CRM
+* Возможность установки бота, которому передается управление после бота OLChat
+
+### Роботы
+
+#### Новые роботы
+
+* Робот отправки файлов теперь поддерживает отправку файлов по прямой ссылке, из Диска, из поля CRM. [Подробнее](roboty-i-aktiviti/roboty/otpravka-faila.md)
+* Робот отправки геометки. [Подробнее](roboty-i-aktiviti/roboty/otpravka-geometki.md)
+* Робот отправки голосовых сообщений. [Подробнее](roboty-i-aktiviti/roboty/otpravka-golosovogo-soobsheniya.md)
+* Робот отправки ссылки на YouTube. [Подробнее](roboty-i-aktiviti/roboty/otpravka-ssylki-na-youtube.md)
+
+#### Обновления роботов
+
+* Возможность добавления описаний для изображений и видео в роботе отправки файлов. [Подробнее](roboty-i-aktiviti/roboty/otpravka-faila.md)
+* Робот отправки ссылки. Добавлено автоматическое прикрепление описания, если не заполнены поля: превью, название и описание. [Подробнее](broken-reference)
+
+#### Роботы групп. [Подробнее](gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/)
+
+### Рассылки. [Подробнее](rassylka-soobshenii/stranica-prosmotra-statusov-rassylok-crm-marketinga.md)
+
+* Отображение статусов сообщений или ошибок отправки
+* Фильтрация по коннектору
+* Поиск по номеру и тексту сообщения
+* История рассылок за 6 месяцев
+
+### Другие изменения
+
+* В деле приложения доработан заголовок: \[{Статус отправки}]\[{Название коннектора}]{тип сообщения}. [Подробнее](https://docs.olchat.io/ispolzovanie/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke#otpravka-soobshenii)
+* В деле добавлено поле коннектора, с которого пришло событие. [Подробнее](https://docs.olchat.io/ispolzovanie/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke#otpravka-soobshenii)
+* Появилась возможность создавать чаты [из приложения в карточке](ispolzovanie/poluchenie-i-otpravka-soobshenii/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md) и [из виджетов](ispolzovanie/vidzhety-v-kartochke-crm/vidzhet-statusy-i-chaty.md).
