@@ -8,7 +8,7 @@
 
 Для оплаты на вкладке Робокасса введите номер телефона для связи по вопросам оплаты, эл. почту для отправки счёта и уведомлений и выберите количество групп для оплаты. Затем нажмите «Оплатить».
 
-<figure><img src="../.gitbook/assets/image (499).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (928).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Для автоматического продления тарифа групп, вы можете подключить автоплатёж через Робокассу, активировав галочку «Подключить автоплатёж».
@@ -26,7 +26,7 @@
 
 Для запроса на выставление счёта перейдите во вкладку «Выставить счёт», заполните форму и нажмите на кнопку «Получить счёт на оплату».
 
-<figure><img src="../.gitbook/assets/image (388).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (929).png" alt=""><figcaption></figcaption></figure>
 
 Скачайте счёт по ссылке
 
