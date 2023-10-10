@@ -16,11 +16,11 @@
 
 Чат появляется справа в карточке лида в ленте коммуникаций.
 
-![](<../../.gitbook/assets/image (909).png>)
+<figure><img src="../../.gitbook/assets/image (940).png" alt=""><figcaption></figcaption></figure>
 
 Созданный диалог и сущности к которым он привязался можно увидеть перейдя из меню **CRM — Клиенты — Контакт-центр — Список диалогов.**
 
-<figure><img src="../../.gitbook/assets/image (441).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (941).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (761).png" alt=""><figcaption></figcaption></figure>
 
@@ -32,13 +32,12 @@
 
 ![](<../../.gitbook/assets/image (915).png>)
 
-Отправили сообщение через [приложение в карточке](../../ispolzovanie/poluchenie-i-otpravka-soobshenii/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md)
+Отправили сообщение через приложение в карточке. Подробнее с статье[kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md](../../ispolzovanie/poluchenie-i-otpravka-soobshenii/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md "mention")
 
 Создался чат
 
-![](<../../.gitbook/assets/image (787).png>)
+<figure><img src="../../.gitbook/assets/image (942).png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/image (245).png>)
+<figure><img src="../../.gitbook/assets/image (943).png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/image (856).png>)
-
+<figure><img src="../../.gitbook/assets/image (944).png" alt=""><figcaption></figcaption></figure>
