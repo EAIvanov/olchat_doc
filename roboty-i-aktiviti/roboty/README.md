@@ -13,11 +13,11 @@
 
 Включить роботов можно в настройках приложения: **OLChat — Настройки — Роботы.**
 
-<figure><img src="../../.gitbook/assets/image (512).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Для установки роботов нажмите на кнопку **«ПЕРЕУСТАНОВИТЬ ВСЕХ РОБОТОВ»**. После нажатия на кнопку вы увидите уведомление об успешной установке роботов а статус возле названия робота поменяет значение с![✖](https://vk.com/emoji/e/e29c96\_2x.png) на ✅
+Для установки роботов нажмите на кнопку **«ОБНОВИТЬ РОБОТОВ»**. После нажатия на кнопку вы увидите уведомление об успешной установке роботов а статус возле названия робота поменяет значение с![✖](https://vk.com/emoji/e/e29c96\_2x.png) на ✅
 
-<figure><img src="../../.gitbook/assets/image (346).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Описание роботов
 
@@ -35,7 +35,7 @@
 
 [otpravka-kontakta.md](otpravka-kontakta.md "mention") — отправляет карточку контакта
 
-[otpravka-ssylki-na-youtube.md](otpravka-ssylki-na-youtube.md "mention") — робот отправляет ссылку с превью на видео, размещённое на YouTube
+[otpravka-ssylki.md](otpravka-ssylki.md "mention") — отправляет ссылку с превью
 
 [otpravka-geometki.md](otpravka-geometki.md "mention") — отправляет местоположение заданное координатами широты и долготы
 

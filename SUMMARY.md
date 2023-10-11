@@ -73,6 +73,7 @@
   * [Получить информацию о чате из WhatsApp](roboty-i-aktiviti/roboty/poluchit-informaciyu-o-chate-iz-whatsapp.md)
   * [Управление открытой линией](roboty-i-aktiviti/roboty/upravlenie-otkrytoi-liniei.md)
   * [Добавление и удаление участников чата](roboty-i-aktiviti/roboty/dobavlenie-i-udalenie-uchastnikov-chata.md)
+  * [Изменить заголовок чата](roboty-i-aktiviti/roboty/izmenit-zagolovok-chata.md)
 * [Действия (активити) бизнес-процессов](roboty-i-aktiviti/deistviya-aktiviti-biznes-processov/README.md)
   * [Пример работы активити приложения](roboty-i-aktiviti/deistviya-aktiviti-biznes-processov/primer-raboty-aktiviti-prilozheniya.md)
   * [Особенности использования номеров в активити бизнес-процессов](roboty-i-aktiviti/deistviya-aktiviti-biznes-processov/osobennosti-ispolzovaniya-nomerov-v-bitriks24.md)
