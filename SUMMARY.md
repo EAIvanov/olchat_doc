@@ -24,6 +24,7 @@
 * [Аккаунты и авторизация](ustanovka-i-nastroika/akkaunty-i-avtorizaciya/README.md)
   * [Авторизация устройства](ustanovka-i-nastroika/akkaunty-i-avtorizaciya/avtorizaciya-ustroistva.md)
   * [Добавление дополнительных аккаунтов WhatsApp](ustanovka-i-nastroika/akkaunty-i-avtorizaciya/dobavlenie-dopolnitelnykh-akkauntov-whatsapp.md)
+  * [Подключение WhatsApp на другой номер телефона](ustanovka-i-nastroika/akkaunty-i-avtorizaciya/dobavlenie-dopolnitelnykh-akkauntov-whatsapp-1.md)
 
 ## Использование
 
