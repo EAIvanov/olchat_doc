@@ -132,6 +132,7 @@
   * [Почему не создался чат открытой линии?](voprosy-i-otvety/rabota-s-chatami/pochemu-ne-sozdalsya-chat-otkrytoi-linii.md)
   * [Почему сообщение ушло не на того менеджера](voprosy-i-otvety/rabota-s-chatami/pochemu-soobshenie-ushlo-ne-na-togo-menedzhera.md)
   * [Как включить или отключить публикацию сообщений в чат?](voprosy-i-otvety/rabota-s-chatami/kak-vklyuchit-ili-otklyuchit-publikaciyu-soobshenii-v-chat.md)
+  * [Как дать ссылку на конкретный чат?](voprosy-i-otvety/rabota-s-chatami/kak-dat-ssylku-na-konkretnyi-chat.md)
 * [Интерфейсы Битрикс24](voprosy-i-otvety/interfeisy-bitriks24/README.md)
   * [Стандартная работа входящих и исходящих сообщений](voprosy-i-otvety/interfeisy-bitriks24/standartnaya-rabota-vkhodyashikh-i-iskhodyashikh-soobshenii.md)
   * [Почему в чатах стоит будущая дата?](voprosy-i-otvety/interfeisy-bitriks24/pochemu-v-chatakh-stoit-budushaya-data.md)
