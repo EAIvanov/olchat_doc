@@ -7,6 +7,10 @@
 * Идентификатор сессии в рамках открытой линии (Число)
 * Строковый идентификатор пользователя открытой линии из CRM (например, imol|livechat|1|1373|211)
 
+{% hint style="info" %}
+Получить ID чата и ID диалога можно из дополнительных результатов робота[poluchit-informaciyu-o-chate-iz-whatsapp.md](poluchit-informaciyu-o-chate-iz-whatsapp.md "mention")
+{% endhint %}
+
 Для добавления робота перейдите в **Роботы ‒ Создать ‒ Выбор стадии ‒ Другие роботы ‒ \[OLChat — Чаты и Группы WhatsApp] \[ОЛ] Информация о диалоге ‒ Добавить.**
 
 <figure><img src="../../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
