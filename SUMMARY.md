@@ -119,6 +119,7 @@
   * [Подтверждение записи с помощью робота Ожидание сообщения](keisy/klienty/podtverzhdenie-zapisi-s-pomoshyu-robota-ozhidanie-soobsheniya.md)
   * [Отправка QR-кода](keisy/klienty/otpravka-qr-koda.md)
   * [Создание чата с клиентом и добавление в него сотрудников Б24 с помощью роботов](keisy/klienty/sozdanie-chata-s-klientom-i-dobavlenie-v-nego-sotrudnikov-b24-s-pomoshyu-robotov.md)
+  * [Как повысить эффективность робота Ожидание сообщения](keisy/klienty/kak-povysit-effektivnost-robota-ozhidanie-soobsheniya.md)
 * [Сотрудники](keisy/sotrudniki/README.md)
   * [Отправка сообщения ответственному сотруднику в WhatsApp с помощью робота](keisy/sotrudniki/otpravka-soobsheniya-otvetstvennomu-sotrudniku-v-whatsapp-s-pomoshyu-robota.md)
   * [Напоминание сотруднику в WhatsApp о необходимости обработать обращение клиента](keisy/sotrudniki/napominanie-sotrudniku-v-whatsapp-o-neobkhodimosti-obrabotat-obrashenie-klienta.md)
