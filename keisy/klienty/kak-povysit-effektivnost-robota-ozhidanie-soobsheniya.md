@@ -86,6 +86,10 @@
 
 <figure><img src="../../.gitbook/assets/image (980).png" alt=""><figcaption></figcaption></figure>
 
+Общение в чате может выглядеть следующим образом:
+
+<figure><img src="../../.gitbook/assets/image (981).png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 Ниже вы можете скачать шаблон рассмотренного бизнес-процесса и импортировать его в ваш бизнес-процесс для подробного рассмотрения и настройки. Подробнее об импорте шаблонов в статье Битрикс24 [Экспорт и импорт шаблонов бизнес-процессов](https://helpdesk.bitrix24.ru/open/5435897/).
 {% endhint %}
