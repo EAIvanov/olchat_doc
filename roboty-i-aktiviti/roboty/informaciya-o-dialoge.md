@@ -31,8 +31,4 @@
 Вся информация о диалоге, которую можно использовать в дальнейших сценариях автоматизации будет содержаться в дополнительных результатах робота:
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (540).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (691).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (296).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (982).png" alt=""><figcaption></figcaption></figure>

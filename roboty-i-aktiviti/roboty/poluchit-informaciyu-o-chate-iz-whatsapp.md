@@ -19,4 +19,4 @@
 Вся информация о чате, которую можно использовать в дальнейших сценариях автоматизации будет содержаться в дополнительных результатах робота:
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (537).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (983).png" alt=""><figcaption></figcaption></figure>
