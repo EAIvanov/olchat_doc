@@ -17,7 +17,7 @@
 
 Для установки роботов нажмите на кнопку **«ОБНОВИТЬ РОБОТОВ»**. После нажатия на кнопку вы увидите уведомление об успешной установке роботов а статус возле названия робота поменяет значение с![✖](https://vk.com/emoji/e/e29c96\_2x.png) на ✅
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Описание роботов
 
@@ -57,7 +57,7 @@
 
 [upravlenie-otkrytoi-liniei.md](upravlenie-otkrytoi-liniei.md "mention") — позволяет выполнять действия над открытой линией
 
-[dobavlenie-i-udalenie-uchastnikov-chata.md](dobavlenie-i-udalenie-uchastnikov-chata.md "mention") — позволяет добавить или удалить участников чата
+[Broken link](broken-reference "mention") — позволяет добавить или удалить участников чата
 
 [poluchit-informaciyu-o-chate-iz-whatsapp.md](poluchit-informaciyu-o-chate-iz-whatsapp.md "mention") — позволяет получить подробную информацию о диалоге по номеру телефона
 
