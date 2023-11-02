@@ -112,7 +112,7 @@
 * Робот отправки файлов теперь поддерживает отправку файлов по прямой ссылке, из Диска, из поля CRM. [Подробнее](roboty-i-aktiviti/roboty/otpravka-faila.md)
 * Робот отправки геометки. [Подробнее](roboty-i-aktiviti/roboty/otpravka-geometki.md)
 * Робот отправки голосовых сообщений. [Подробнее](roboty-i-aktiviti/roboty/otpravka-golosovogo-soobsheniya.md)
-* Робот отправки ссылки на YouTube. [Подробнее](roboty-i-aktiviti/roboty/otpravka-ssylki-na-youtube.md)
+* Робот отправки ссылки на YouTube. [Подробнее](broken-reference)
 
 #### Обновления роботов
 

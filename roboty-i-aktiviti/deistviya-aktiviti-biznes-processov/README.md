@@ -35,7 +35,7 @@
 
 [otpravka-kontakta.md](otpravka-kontakta.md "mention") — отправляет карточку контакта
 
-[otpravka-ssylki-na-youtube.md](otpravka-ssylki-na-youtube.md "mention") — активити отправляет ссылку с превью на видео, размещённое на YouTube
+[Broken link](broken-reference "mention") — активити отправляет ссылку с превью на видео, размещённое на YouTube
 
 [otpravka-geometki.md](otpravka-geometki.md "mention") — отправляет местоположение заданное координатами широты и долготы
 
