@@ -46,7 +46,7 @@
 
     Подробнее в статье [#opisanie-parametrov-bota](bot-pomoshnik.md#opisanie-parametrov-bota "mention")
 5. Добавили волшебства в работу с товарами Битрикс24. Теперь клиенту отправляется товар в удобочитаемом виде без табличного форматирования. Подробнее в статье [rabota-s-tovarnymi-poziciyami.md](keisy/raznoe/rabota-s-tovarnymi-poziciyami.md "mention")
-6. &#x20;Добавили Робота и Активити бизнес-процессов «Отправка сообщений со списком выбора». Подробнее в статьях Робот: [otpravka-soobsheniya-so-spiskom-vybora.md](roboty-i-aktiviti/roboty/otpravka-soobsheniya-so-spiskom-vybora.md "mention") и Активити: [otpravka-soobsheniya-so-spiskom-vybora.md](roboty-i-aktiviti/deistviya-aktiviti-biznes-processov/otpravka-soobsheniya-so-spiskom-vybora.md "mention")
+6. &#x20;Добавили Робота и Активити бизнес-процессов «Отправка сообщений со списком выбора». Подробнее в статьях Робот: [otpravka-soobsheniya-so-spiskom-vybora.md](roboty-i-aktiviti/roboty/otpravka-soobsheniya-so-spiskom-vybora.md "mention") и Активити: [Broken link](broken-reference "mention")
 7. Сделали автоплатёж через Робокассу для тех, кто устал возиться с оплатой каждый месяц
 
 ### А что прокачали?

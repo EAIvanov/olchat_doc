@@ -39,11 +39,11 @@
 
 [Broken link](broken-reference "mention") — отправляет местоположение заданное координатами широты и долготы
 
-[otpravka-golosovogo-soobsheniya.md](otpravka-golosovogo-soobsheniya.md "mention") — отправляет аудиосообщение
+[Broken link](broken-reference "mention") — отправляет аудиосообщение
 
-[otpravka-soobsheniya-s-knopkami.md](otpravka-soobsheniya-s-knopkami.md "mention") — отправляет сообщение с кнопками
+[Broken link](broken-reference "mention") — отправляет сообщение с кнопками
 
-[otpravka-soobsheniya-so-spiskom-vybora.md](otpravka-soobsheniya-so-spiskom-vybora.md "mention") — отправляет сообщение со списком выбора
+[Broken link](broken-reference "mention") — отправляет сообщение со списком выбора
 
 [#deistvie-aktiviti-upravlenie-gruppoi](../../gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/upravlenie-gruppoi.md#deistvie-aktiviti-upravlenie-gruppoi "mention") — активити для управления составом и правами участников группы
 

@@ -6,7 +6,7 @@
 
 После оказания услуг или продажи товаров, компании важно понимать, что о ней думают клиенты, довольны ли они услугой или товаром, и на основе полученной информации принимать решение, что можно улучшить в своей деятельности. Как правило, обратную связь от клиентов получают с помощью опросов и сбора отзывов.
 
-Функционал сбора отзывов от клиентов можно реализовать в WhatsApp с помощью нашего робота [otpravka-soobsheniya-s-knopkami.md](../../roboty-i-aktiviti/roboty/otpravka-soobsheniya-s-knopkami.md "mention") или активити бизнес-процессов [otpravka-soobsheniya-s-knopkami.md](../../roboty-i-aktiviti/deistviya-aktiviti-biznes-processov/otpravka-soobsheniya-s-knopkami.md "mention")
+Функционал сбора отзывов от клиентов можно реализовать в WhatsApp с помощью нашего робота или активити бизнес-процессов [otpravka-soobsheniya-s-knopkami.md](../../roboty-i-aktiviti/roboty/otpravka-soobsheniya-s-knopkami.md "mention").
 
 {% hint style="info" %}
 Поскольку функционал бизнес-процессов присутствует не на всех тарифах Битрикс24, рассмотрим процесс сбора обратной связи от клиентов с помощью робота [otpravka-soobsheniya-s-knopkami.md](../../roboty-i-aktiviti/roboty/otpravka-soobsheniya-s-knopkami.md "mention")
