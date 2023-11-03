@@ -29,15 +29,15 @@
 
 **Ожидание сообщения** — позволяет дождаться ответа пользователя на ваше сообщение&#x20;
 
-[otpravka-soobsheniya.md](otpravka-soobsheniya.md "mention") — основное активити для отправки сообщений
+[Broken link](broken-reference "mention") — основное активити для отправки сообщений
 
-[otpravka-faila.md](otpravka-faila.md "mention") — активити для отправки изображений и других файлов
+[Broken link](broken-reference "mention") — активити для отправки изображений и других файлов
 
-[otpravka-kontakta.md](otpravka-kontakta.md "mention") — отправляет карточку контакта
+[Broken link](broken-reference "mention") — отправляет карточку контакта
 
 [Broken link](broken-reference "mention") — активити отправляет ссылку с превью на видео, размещённое на YouTube
 
-[otpravka-geometki.md](otpravka-geometki.md "mention") — отправляет местоположение заданное координатами широты и долготы
+[Broken link](broken-reference "mention") — отправляет местоположение заданное координатами широты и долготы
 
 [otpravka-golosovogo-soobsheniya.md](otpravka-golosovogo-soobsheniya.md "mention") — отправляет аудиосообщение
 

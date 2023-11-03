@@ -51,7 +51,7 @@
 
 ### А что прокачали?
 
-1. В Роботе и Активити бизнес-процессов «Отправка контакта» теперь отправляется ФИО, номер телефона и название компании. Подробнее в статьях Робот: [otpravka-kontakta.md](roboty-i-aktiviti/roboty/otpravka-kontakta.md "mention") и Активити: [otpravka-kontakta.md](roboty-i-aktiviti/deistviya-aktiviti-biznes-processov/otpravka-kontakta.md "mention")
+1. В Роботе и Активити бизнес-процессов «Отправка контакта» теперь отправляется ФИО, номер телефона и название компании. Подробнее в статьях Робот: [otpravka-kontakta.md](roboty-i-aktiviti/roboty/otpravka-kontakta.md "mention") и Активити: [Broken link](broken-reference "mention")
 2. В настройке прав добавили возможность показывать страницу с линиями только администратору, чтобы никто не подглядывал. Подробнее в статье [#pravo-na-prosmotr-stranicy-prilozheniya](ustanovka-i-nastroika/nastroika-prav-dlya-raboty-s-prilozheniem-olchat.md#pravo-na-prosmotr-stranicy-prilozheniya "mention")
 3. Все телефоны в одном виджете. Если у вас к сущности CRM прикреплено несколько контактов или компаний, в виджет OLChat подтянутся телефоны из всех карточек (до 10 телефонов).
 4. Теперь в деле о пропущенном звонке отображается дата и время звонка.

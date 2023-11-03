@@ -20,7 +20,7 @@
 
 #### 1 Настройка действия Отправка сообщения
 
-Добавим действие [otpravka-soobsheniya.md](../../roboty-i-aktiviti/deistviya-aktiviti-biznes-processov/otpravka-soobsheniya.md "mention") в котором напишем текст отправляемого сообщения:
+Добавим действие [ozhidanie-soobsheniya.md](../../roboty-i-aktiviti/roboty/ozhidanie-soobsheniya.md "mention") в котором напишем текст отправляемого сообщения:
 
 <figure><img src="../../.gitbook/assets/image (963).png" alt=""><figcaption></figcaption></figure>
 
@@ -54,7 +54,7 @@
 
 Если ответ клиента совпадёт с одним из условий и сценарий процесса пойдёт по данной ветке, следующим действием нам необходимо изменить переменную «Клиент ответил правильно?» на вариант «Да», чтобы выйти из Цикла и продолжить общение с клиентом, обработав выбранный им вариант.
 
-В случае, если клиент ответил не только цифрой и мы не можем точно определить, какой вариант он выбрал, во второй ветке условия мы можем отправить клиенту сообщение с помощью действия [otpravka-soobsheniya.md](../../roboty-i-aktiviti/deistviya-aktiviti-biznes-processov/otpravka-soobsheniya.md "mention") и попросить прислать только цифру ответа:
+В случае, если клиент ответил не только цифрой и мы не можем точно определить, какой вариант он выбрал, во второй ветке условия мы можем отправить клиенту сообщение с помощью действия [Broken link](broken-reference "mention") и попросить прислать только цифру ответа:
 
 <figure><img src="../../.gitbook/assets/image (971).png" alt=""><figcaption></figcaption></figure>
 
