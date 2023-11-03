@@ -12,7 +12,7 @@
 Строковый идентификатор пользователя открытой линии – содержится в поле Мессенджер.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Для добавления робота перейдите в **Роботы ‒ Создать ‒ Выбор стадии ‒ Другие роботы ‒ \[OLChat — Чаты и Группы WhatsApp] \[ОЛ] Информация о диалоге ‒ Добавить.**
 

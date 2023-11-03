@@ -9,7 +9,7 @@
 {% hint style="danger" %}
 Мы не рекомендуем отправлять сообщения через функционал SMS. Эта возможность не предназначена для переписки. Используйте этот функционал только там, где без него не обойтись. Например, для отправки рассылок через CRM-маркетинг или для отправки ссылок на оплату в Центре продаж.
 
-Во всех других случаях используйте функционал [чатов открытых линий](./), наше [приложение](kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md), [виджет](../vidzhety-v-kartochke-crm/), [роботов](../../roboty-i-aktiviti/roboty/), [действия БП](../../roboty-i-aktiviti/deistviya-aktiviti-biznes-processov/).
+Во всех других случаях используйте функционал [чатов открытых линий](./), наше [приложение](kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md), [виджет](../vidzhety-v-kartochke-crm/), [роботов](../../roboty-i-aktiviti/roboty/), [действия БП](broken-reference).
 {% endhint %}
 
 ### Отправка через веб-версию Битрикс24
@@ -50,4 +50,4 @@
 При возникновении такой ситуации, перейдите в приложение OLChat и убедитесь, что QR-код отсканирован, линия оплачена а соединение с телефоном установлено. Также проверьте, что в настройках коннектора в разделе «Настройка чата» активирована галочка напротив пункта «Включить провайдера СМС».
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

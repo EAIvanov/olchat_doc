@@ -74,7 +74,7 @@
   * [Перевести диалог на другого оператора/линию](roboty-i-aktiviti/roboty/perevesti-dialog-na-drugogo-operatora-liniyu.md)
   * [Получить информацию о чате из WhatsApp](roboty-i-aktiviti/roboty/poluchit-informaciyu-o-chate-iz-whatsapp.md)
   * [Изменить заголовок чата](roboty-i-aktiviti/roboty/izmenit-zagolovok-chata.md)
-* [Особенности использования номеров в роботах](roboty-i-aktiviti/osobennosti-ispolzovaniya-nomerov-v-robotakh.md)
+* [Особенности использования номеров в роботах и активити бизнес-процессов](roboty-i-aktiviti/osobennosti-ispolzovaniya-nomerov-v-robotakh-i-aktiviti-biznes-processov.md)
 * [Настройка отправки файла в зависимости от источника](roboty-i-aktiviti/sozdanie-pryamoi-ssylki-na-fail.md)
 * [Отладка и поиск ошибок](roboty-i-aktiviti/otladka-i-poisk-oshibok/README.md)
   * [Описание ошибок, возвращаемых роботами и активити бизнес-процессов](roboty-i-aktiviti/otladka-i-poisk-oshibok/opisanie-oshibok-vozvrashaemykh-robotami-i-aktiviti-biznes-processov.md)
@@ -83,9 +83,6 @@
 * [Пример работы активити приложения](roboty-i-aktiviti/primer-raboty-aktiviti-prilozheniya.md)
 * [Переменные значения в роботах и активити бизнес-процессов](roboty-i-aktiviti/peremennye-znacheniya-v-robotakh-i-aktiviti-biznes-processov.md)
 * [Умные сценарии](roboty-i-aktiviti/umnye-scenarii.md)
-* [Действия (активити) бизнес-процессов](roboty-i-aktiviti/deistviya-aktiviti-biznes-processov/README.md)
-  * [Особенности использования номеров в активити бизнес-процессов](roboty-i-aktiviti/deistviya-aktiviti-biznes-processov/osobennosti-ispolzovaniya-nomerov-v-bitriks24.md)
-  * [Проверка WhatsApp на номере](roboty-i-aktiviti/deistviya-aktiviti-biznes-processov/proverka-nomera.md)
 
 ## Групповые чаты
 

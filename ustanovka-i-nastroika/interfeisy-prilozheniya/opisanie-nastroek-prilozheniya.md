@@ -27,7 +27,7 @@
 
 <figure><img src="../../.gitbook/assets/image (932).png" alt=""><figcaption></figcaption></figure>
 
-Раздел «РОБОТЫ» содержит список всех роботов и активити бизнес-процессов приложения OLChat и кнопку для их обновления. Подробнее в статьях [roboty](../../roboty-i-aktiviti/roboty/ "mention") и [deistviya-aktiviti-biznes-processov](../../roboty-i-aktiviti/deistviya-aktiviti-biznes-processov/ "mention")
+Раздел «РОБОТЫ» содержит список всех роботов и активити бизнес-процессов приложения OLChat и кнопку для их обновления. Подробнее в статьях [roboty](../../roboty-i-aktiviti/roboty/ "mention") и [Broken link](broken-reference "mention")
 
 ### Возможности
 
