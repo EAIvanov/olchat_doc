@@ -1,25 +1,30 @@
-# Роботы
+# Роботы и активити (действия) бизнес-процессов
 
 {% hint style="warning" %}
 Функционал роботов в лидах и сделках доступен для архивных тарифов Команда, CRM+ и Компания а также в действующих тарифах Базовый, Стандартный, Профессиональный и Энтерпрайз
+
+Функционал аквивити (действий) бизнес-процессов доступен для тарифов Профессиональный и Энтерпрайз
 {% endhint %}
 
 {% hint style="info" %}
 Общая информация по работе с роботами в Битрикс24:\
 [Роботы Битрикс24](https://helpdesk.bitrix24.ru/open/6908975/)
+
+Общая информация по работе с бизнес-процессами в Битрикс24:\
+[Видео-курс о бизнес-процессах](https://helpdesk.bitrix24.ru/open/3092117/)
 {% endhint %}
 
-### Установка роботов
+### Установка роботов и активити
 
-Включить роботов можно в настройках приложения: **OLChat — Настройки — Роботы.**
+Включить роботов и активити можно в настройках приложения: **OLChat — Настройки — Роботы.**
 
-<figure><img src="../../.gitbook/assets/image (949).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-Для установки роботов нажмите на кнопку **«ОБНОВИТЬ РОБОТОВ»**. После нажатия на кнопку вы увидите уведомление об успешной установке роботов а статус возле названия робота поменяет значение с![✖](https://vk.com/emoji/e/e29c96\_2x.png) на ✅
+Для установки роботов и активити нажмите на кнопку **«ОБНОВИТЬ РОБОТОВ»**. После нажатия на кнопку вы увидите уведомление об успешной установке роботов а статус возле названия робота поменяет значение с![✖](https://vk.com/emoji/e/e29c96\_2x.png) на ✅
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-### Описание роботов
+### Описание роботов и активити
 
 #### **WhatsApp**
 
@@ -45,9 +50,9 @@
 
 [otpravka-soobsheniya-so-spiskom-vybora.md](otpravka-soobsheniya-so-spiskom-vybora.md "mention") — отправляет сообщение со списком выбора
 
-[#robot-upravlenie-gruppoi](../../gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/upravlenie-gruppoi.md#robot-upravlenie-gruppoi "mention") — робот для управления составом и правами участников группы
+[#robot-upravlenie-gruppoi](../../gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/upravlenie-gruppoi.md#robot-upravlenie-gruppoi "mention") — робот и активити для управления составом и правами участников группы
 
-#### Роботы групп
+#### Роботы и активити групп
 
 Существует отдельный набор роботов с пометкой «\[Группы]» для отправки различного типа сообщений в подключенные группы. Подробнее в статье [robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov](../../gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/ "mention")
 
@@ -57,7 +62,7 @@
 
 [upravlenie-otkrytoi-liniei.md](upravlenie-otkrytoi-liniei.md "mention") — позволяет выполнять действия над открытой линией
 
-[Broken link](broken-reference "mention") — позволяет добавить или удалить участников чата
+[perevesti-dialog-na-drugogo-operatora-liniyu.md](perevesti-dialog-na-drugogo-operatora-liniyu.md "mention") — позволяет перевести диалог на другого оператора или линию
 
 [poluchit-informaciyu-o-chate-iz-whatsapp.md](poluchit-informaciyu-o-chate-iz-whatsapp.md "mention") — позволяет получить подробную информацию о диалоге по номеру телефона
 
