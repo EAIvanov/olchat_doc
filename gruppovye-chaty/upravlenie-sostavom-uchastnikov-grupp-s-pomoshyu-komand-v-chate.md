@@ -20,3 +20,7 @@
 {% endhint %}
 
 ![](<../.gitbook/assets/image (38).png>)
+
+{% hint style="info" %}
+Перед добавлением в группу пользователей по номеру телефона, рекомендуем ознакомиться со статьёй [osobennosti-dobavleniya-polzovatelei-v-gruppy.md](osobennosti-dobavleniya-polzovatelei-v-gruppy.md "mention")
+{% endhint %}
