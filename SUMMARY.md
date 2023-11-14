@@ -93,6 +93,7 @@
   * [Управление группой](gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/upravlenie-gruppoi.md)
 * [Управление настройками и участниками групп через приложение](gruppovye-chaty/upravlenie-nastroikami-i-uchastnikami-grupp-cherez-prilozhenie.md)
 * [Управление составом участников групп с помощью команд в чате](gruppovye-chaty/upravlenie-sostavom-uchastnikov-grupp-s-pomoshyu-komand-v-chate.md)
+* [Особенности добавления пользователей в группы](gruppovye-chaty/osobennosti-dobavleniya-polzovatelei-v-gruppy.md)
 * [Сценарии использования групповых чатов WhatsApp в Битрикс24](gruppovye-chaty/scenarii-ispolzovaniya-gruppovykh-chatov-whatsapp-v-bitriks24.md)
 
 ## Кейсы
