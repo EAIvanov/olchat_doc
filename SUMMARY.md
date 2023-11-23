@@ -110,6 +110,7 @@
 * [Сотрудники](keisy/sotrudniki/README.md)
   * [Отправка сообщения ответственному сотруднику в WhatsApp с помощью робота](keisy/sotrudniki/otpravka-soobsheniya-otvetstvennomu-sotrudniku-v-whatsapp-s-pomoshyu-robota.md)
   * [Напоминание сотруднику в WhatsApp о необходимости обработать обращение клиента](keisy/sotrudniki/napominanie-sotrudniku-v-whatsapp-o-neobkhodimosti-obrabotat-obrashenie-klienta.md)
+  * [Управление распределением обращений в открытую линию](keisy/sotrudniki/upravlenie-raspredeleniem-obrashenii-v-otkrytuyu-liniyu.md)
 * [Разное](keisy/raznoe/README.md)
   * [Отправка текста и файлов через быстрые ответы с помощью шорткодов](keisy/raznoe/otpravka-teksta-i-failov-cherez-bystrye-otvety-s-pomoshyu-shortkodov.md)
   * [Работа с товарными позициями](keisy/raznoe/rabota-s-tovarnymi-poziciyami.md)
