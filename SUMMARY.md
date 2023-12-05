@@ -74,6 +74,7 @@
   * [Перевести диалог на другого оператора/линию](roboty-i-aktiviti/roboty/perevesti-dialog-na-drugogo-operatora-liniyu.md)
   * [Получить информацию о чате из WhatsApp](roboty-i-aktiviti/roboty/poluchit-informaciyu-o-chate-iz-whatsapp.md)
   * [Изменить заголовок чата](roboty-i-aktiviti/roboty/izmenit-zagolovok-chata.md)
+* [Дополнительные настройки роботов](roboty-i-aktiviti/dopolnitelnye-nastroiki-robotov.md)
 * [Особенности использования номеров в роботах и активити бизнес-процессов](roboty-i-aktiviti/osobennosti-ispolzovaniya-nomerov-v-robotakh-i-aktiviti-biznes-processov.md)
 * [Настройка отправки файла в зависимости от источника](roboty-i-aktiviti/sozdanie-pryamoi-ssylki-na-fail.md)
 * [Отладка и поиск ошибок](roboty-i-aktiviti/otladka-i-poisk-oshibok/README.md)
