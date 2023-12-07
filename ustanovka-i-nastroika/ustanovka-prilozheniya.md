@@ -1,29 +1,41 @@
 # Установка приложения
 
 {% hint style="info" %}
-Если на вашем портале подключена **Подписка Битрикс24.Маркет Плюс**, то вам нужно установить приложение по инструкции из раздела [Установка из маркетплейса Битрикс24](ustanovka-prilozheniya.md#ustanovka-iz-marketpleisa-bitriks24).
-
-Если у вас нет возможности подключить подписку или она недоступна в вашем регионе, то для получения ссылки на установку приложения заполните форму на [официальном сайте](https://olchat.io/?utm\_source=docs.olchat.io). Инструкция по установке в разделе [Установка через заполнение формы на сайте.](ustanovka-prilozheniya.md#ustanovka-cherez-zapolnenie-formy-na-saite)
-
-Условия по оплате для обоих видов приложения абсолютно одинаковые.
+Установка приложения осуществляется через **Битрикс24.Маркет.**
 {% endhint %}
 
-### Установка через заполнение формы на сайте
+### Если на портале подключена подписка **Битрикс24.Маркет Плюс**
 
-{% embed url="https://youtu.be/ZauTHWI-sHs" %}
+Для установки приложения перейдите в «Маркет» вашего Битрикс24, введите в поиске «OLChat» и найдите приложение «OLChat — Чаты и Группы WhatsApp» с пометкой **«Подписка»**.
 
-### Установка из маркетплейса Битрикс24
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Выполните установку приложения, нажав на кнопку «УСТАНОВИТЬ»
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-[https://www.bitrix24.ru/apps/?app=infocom.olchat\_s\&p=132277](https://www.bitrix24.ru/apps/?app=infocom.olchat\_s\&p=132277)
+Также вы можете установить приложение перейдя по ссылке на Маркет: [https://www.bitrix24.ru/apps/?app=infocom.olchat\_s\&p=132277](https://www.bitrix24.ru/apps/?app=infocom.olchat\_s\&p=132277)
 {% endhint %}
 
-{% embed url="https://www.youtube.com/watch?v=8djq4Usfm5I" %}
+### Если на портале нет подписки на **Битрикс24.Маркет Плюс**
 
-Для установки найдите в разделе «Маркет» вашего Битрикс24 приложение «OLChat» и установите его.
+Для установки приложения перейдите в «Маркет» вашего Битрикс24, введите в поиске «OLChat» и найдите приложение «OLChat — Чаты и Группы WhatsApp» с пометкой **«Бесплатно»**.
 
-<figure><img src="../.gitbook/assets/image (920).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+Выполните установку приложения, нажав на кнопку «УСТАНОВИТЬ»
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Также вы можете установить приложение перейдя по ссылке на Маркет: [https://www.bitrix24.ru/apps/app/infocom.olchat](https://www.bitrix24.ru/apps/app/infocom.olchat)
+{% endhint %}
 
 После установки приложение OLChat — Чаты и Группы появится в меню слева
 
 ![](<../.gitbook/assets/image (699).png>)
+
+{% hint style="info" %}
+Условия по оплате для обоих видов приложения абсолютно одинаковые.
+{% endhint %}

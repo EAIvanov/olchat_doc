@@ -38,7 +38,7 @@
 
 {% embed url="https://youtu.be/h21limiMbfc" %}
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Для отправки сообщения с кнопками из бизнес-процесса добавьте действие «Отправка сообщения с кнопками». Выполните настройку параметров действия:
 
@@ -64,7 +64,7 @@
 
 В настройках условия в качестве источника необходимо выбирать ответ пользователя, содержащий текст одной из кнопок.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Следует помнить о том, что для одной сущности вы можете запустить не более 2-х бизнес-процессов одновременно. Подробнее в статье от Битрикс24 [Ограничение на запуск процессов](https://helpdesk.bitrix24.ru/open/5671433/)
