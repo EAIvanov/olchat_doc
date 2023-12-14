@@ -98,7 +98,7 @@
 
 Если в поле **«Ожидать ответ сообщения»** вы выбрали **«Да»,** ответ пользователя (выбранное им значение списка) можно получить в дополнительных результатах активити «\[OLChat — Чаты и Группы WhatsApp] Отправка сообщения со списком выбора».
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Сообщение, полученное в WhatsApp имеет такой вид:
