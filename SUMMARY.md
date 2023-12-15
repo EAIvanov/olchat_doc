@@ -26,6 +26,7 @@
   * [Добавление дополнительных аккаунтов WhatsApp](ustanovka-i-nastroika/akkaunty-i-avtorizaciya/dobavlenie-dopolnitelnykh-akkauntov-whatsapp.md)
   * [Подключение WhatsApp на другой номер телефона](ustanovka-i-nastroika/akkaunty-i-avtorizaciya/dobavlenie-dopolnitelnykh-akkauntov-whatsapp-1.md)
 * [Дополнительные настройки для коробочной версии Битрикс24](ustanovka-i-nastroika/dopolnitelnye-nastroiki-dlya-korobochnoi-versii-bitriks24.md)
+* [Переустановка приложения](ustanovka-i-nastroika/pereustanovka-prilozheniya.md)
 
 ## Использование
 
