@@ -18,7 +18,7 @@
 **CRM — Клиенты — Контакт-центр — \[OLChat] WhatsApp — Подключить (Изменить)**
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ![](<../.gitbook/assets/image (373).png>)
 

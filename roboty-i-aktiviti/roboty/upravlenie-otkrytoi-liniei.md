@@ -36,7 +36,7 @@
    * [informaciya-o-dialoge.md](informaciya-o-dialoge.md "mention")
    * [poluchit-informaciyu-o-chate-iz-whatsapp.md](poluchit-informaciyu-o-chate-iz-whatsapp.md "mention")
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (927).png" alt=""><figcaption></figcaption></figure>
 
