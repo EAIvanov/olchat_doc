@@ -3,7 +3,7 @@
 {% hint style="warning" %}
 Функционал роботов в лидах и сделках доступен для архивных тарифов Команда, CRM+ и Компания а также в действующих тарифах Базовый, Стандартный, Профессиональный и Энтерпрайз
 
-Функционал аквивити (действий) бизнес-процессов доступен для тарифов Профессиональный и Энтерпрайз
+Функционал активити (действий) бизнес-процессов доступен для тарифов Профессиональный и Энтерпрайз
 {% endhint %}
 
 {% hint style="info" %}
@@ -18,11 +18,11 @@
 
 Включить роботов и активити можно в настройках приложения: **OLChat — Настройки — Роботы.**
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Для установки роботов и активити нажмите на кнопку **«ОБНОВИТЬ РОБОТОВ»**. После нажатия на кнопку вы увидите уведомление об успешной установке роботов а статус возле названия робота поменяет значение с![✖](https://vk.com/emoji/e/e29c96\_2x.png) на ✅
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Описание роботов и активити
 
@@ -45,10 +45,6 @@
 [otpravka-geometki.md](otpravka-geometki.md "mention") — отправляет местоположение заданное координатами широты и долготы
 
 [otpravka-golosovogo-soobsheniya.md](otpravka-golosovogo-soobsheniya.md "mention") — отправляет аудиосообщение
-
-[otpravka-soobsheniya-s-knopkami.md](otpravka-soobsheniya-s-knopkami.md "mention") — отправляет сообщение с кнопками
-
-[otpravka-soobsheniya-so-spiskom-vybora.md](otpravka-soobsheniya-so-spiskom-vybora.md "mention") — отправляет сообщение со списком выбора
 
 [#robot-upravlenie-gruppoi](../../gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/upravlenie-gruppoi.md#robot-upravlenie-gruppoi "mention") — робот и активити для управления составом и правами участников группы
 

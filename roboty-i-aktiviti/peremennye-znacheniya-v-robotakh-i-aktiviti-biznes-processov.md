@@ -31,5 +31,5 @@
 {% endhint %}
 
 {% hint style="info" %}
-Примеры настройки роботов OLChat с использованием переменных значений содержатся во всех статьях из раздела Роботы и Действия бизнес-процессов а также в кейсах [sbor-otzyvov-s-pomoshyu-soobshenii-s-knopkami.md](../keisy/klienty/sbor-otzyvov-s-pomoshyu-soobshenii-s-knopkami.md "mention") и[avtomatizaciya-voronki-po-meropriyatiyam-s-pomoshyu-uvedomlenii-v-whatsapp.md](../keisy/klienty/avtomatizaciya-voronki-po-meropriyatiyam-s-pomoshyu-uvedomlenii-v-whatsapp.md "mention")&#x20;
+Примеры настройки роботов OLChat с использованием переменных значений содержатся во всех статьях из раздела Роботы и Действия бизнес-процессов а также в кейсе[avtomatizaciya-voronki-po-meropriyatiyam-s-pomoshyu-uvedomlenii-v-whatsapp.md](../keisy/klienty/avtomatizaciya-voronki-po-meropriyatiyam-s-pomoshyu-uvedomlenii-v-whatsapp.md "mention")&#x20;
 {% endhint %}

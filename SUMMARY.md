@@ -68,8 +68,6 @@
   * [Отправка ссылки](roboty-i-aktiviti/roboty/otpravka-ssylki.md)
   * [Отправка геометки](roboty-i-aktiviti/roboty/otpravka-geometki.md)
   * [Отправка голосового сообщения](roboty-i-aktiviti/roboty/otpravka-golosovogo-soobsheniya.md)
-  * [Отправка сообщения с кнопками](roboty-i-aktiviti/roboty/otpravka-soobsheniya-s-knopkami.md)
-  * [Отправка сообщения со списком выбора](roboty-i-aktiviti/roboty/otpravka-soobsheniya-so-spiskom-vybora.md)
   * [Информация о диалоге](roboty-i-aktiviti/roboty/informaciya-o-dialoge.md)
   * [Управление открытой линией](roboty-i-aktiviti/roboty/upravlenie-otkrytoi-liniei.md)
   * [Перевести диалог на другого оператора/линию](roboty-i-aktiviti/roboty/perevesti-dialog-na-drugogo-operatora-liniyu.md)
@@ -102,7 +100,6 @@
 
 * [Клиенты](keisy/klienty/README.md)
   * [Отправка сообщений после создания лида с помощью роботов](keisy/klienty/otpravka-soobshenii-posle-sozdaniya-lida-s-pomoshyu-robotov.md)
-  * [Сбор отзывов с помощью сообщений с кнопками](keisy/klienty/sbor-otzyvov-s-pomoshyu-soobshenii-s-knopkami.md)
   * [Автоматизация воронки по мероприятиям с помощью уведомлений в WhatsApp](keisy/klienty/avtomatizaciya-voronki-po-meropriyatiyam-s-pomoshyu-uvedomlenii-v-whatsapp.md)
   * [Отправка сообщений в WhatsApp с помощью CRM-Маркетинга и автоматизация воронки в сделках](keisy/klienty/otpravka-soobshenii-v-whatsapp-s-pomoshyu-crm-marketinga-i-avtomatizaciya-voronki-v-sdelkakh.md)
   * [Подтверждение записи с помощью робота Ожидание сообщения](keisy/klienty/podtverzhdenie-zapisi-s-pomoshyu-robota-ozhidanie-soobsheniya.md)
