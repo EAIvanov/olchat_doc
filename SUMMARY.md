@@ -133,5 +133,4 @@
   * [Сравнение неофициальной интеграции WhatsApp и официальной WhatsApp Business API с Битрикс24](voprosy-i-otvety/whatsapp-business-api-waba/sravnenie-neoficialnoj-integracii-whatsapp-i-oficialnogo-whatsapp-business-api.md)
   * [Отличие WhatsApp, WhatsApp Business и WhatsApp Business API](voprosy-i-otvety/whatsapp-business-api-waba/otlichie-whatsapp-whatsapp-business-i-whatsapp-business-api.md)
   * [Битрикс24. Виртуальный WhatsApp](voprosy-i-otvety/whatsapp-business-api-waba/bitriks24.-virtualnyi-whatsapp.md)
-* [Что делать, если ваш номер заблокировали?](voprosy-i-otvety/block.md)
 * [Как оставить отзыв о приложении OLChat?](voprosy-i-otvety/kak-ostavit-otzyv-o-prilozhenii-olchat.md)
