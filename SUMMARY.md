@@ -2,7 +2,7 @@
 
 * [OLChat — чат WhatsApp для открытых линий Битрикс24](README.md)
 * [Важная информация!](vazhnaya-informaciya.md)
-* [Как снизить риск блокировки номера?](kak-snizit-risk-blokirovki-nomera.md)
+* [Как снизить риск блокировки номера и что делать, если номер заблокировали?](kak-snizit-risk-blokirovki-nomera-i-chto-delat-esli-nomer-zablokirovali.md)
 * [Тарифы приложения](stoimost-i-oplata-prilozheniya/README.md)
   * [Оплата коннектора](stoimost-i-oplata-prilozheniya/oplata-konnektora.md)
   * [Оплата групп WhatsApp](stoimost-i-oplata-prilozheniya/oplata-grupp-whatsapp.md)

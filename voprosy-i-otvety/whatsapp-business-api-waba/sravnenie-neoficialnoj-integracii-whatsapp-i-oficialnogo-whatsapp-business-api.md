@@ -18,7 +18,7 @@
 #### Требования и особенности:
 
 1. Сейчас не нужно постоянно включенный телефон, зарядка и Wi-fi не важны. Единственное требование раз в 14 дней пользоваться WhatsApp на телефоне, для стабильного подключения.
-2. Высокий риск блокировки номера при проведении массовых рассылок и несоблюдении других наших [рекомендаций](../../kak-snizit-risk-blokirovki-nomera.md)[.](../../kak-snizit-risk-blokirovki-nomera.md)
+2. Высокий риск блокировки номера при проведении массовых рассылок и несоблюдении других наших [рекомендаций](../../kak-snizit-risk-blokirovki-nomera-i-chto-delat-esli-nomer-zablokirovali.md)[.](../../kak-snizit-risk-blokirovki-nomera-i-chto-delat-esli-nomer-zablokirovali.md)
 
 ### Официальная интеграция WhatsApp Business API
 

@@ -34,7 +34,7 @@
 Со своей стороны мы выдерживаем паузы между отправкой сообщений (15 секунд) и принимаем ряд других технических мер для снижения вероятности блокировки номера.
 
 {% hint style="info" %}
-Также рекомендуем ознакомиться с отдельной статьёй [kak-snizit-risk-blokirovki-nomera.md](../kak-snizit-risk-blokirovki-nomera.md "mention")
+Также рекомендуем ознакомиться с отдельной статьёй [kak-snizit-risk-blokirovki-nomera-i-chto-delat-esli-nomer-zablokirovali.md](../kak-snizit-risk-blokirovki-nomera-i-chto-delat-esli-nomer-zablokirovali.md "mention")
 {% endhint %}
 
 {% hint style="warning" %}
