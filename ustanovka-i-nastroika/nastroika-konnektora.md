@@ -1,7 +1,7 @@
 # Настройка коннектора
 
 {% hint style="warning" %}
-Перед подключением и настройкой коннектора, обязательно ознакомьтесь со статьёй [kak-snizit-risk-blokirovki-nomera-i-chto-delat-esli-nomer-zablokirovali.md](../kak-snizit-risk-blokirovki-nomera-i-chto-delat-esli-nomer-zablokirovali.md "mention")
+Перед подключением и настройкой коннектора, обязательно ознакомьтесь со статьёй [blokirovka-nomera.md](../blokirovka-nomera.md "mention")
 {% endhint %}
 
 {% hint style="warning" %}
