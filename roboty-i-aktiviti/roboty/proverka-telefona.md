@@ -6,7 +6,7 @@
 
 <figure><img src="../../.gitbook/assets/image (832).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Робот и активити **«Проверка WhatsApp на номере»** могут быть использованы в отдельных случаях, когда вы хотите явно получить результат проверки номера на наличие WhatsApp и использовать его в ваших сценариях работы. Пользоваться данным роботом и активити каждый раз при стандартной отправке нет необходимости, кроме того, они замедляют работу приложения.

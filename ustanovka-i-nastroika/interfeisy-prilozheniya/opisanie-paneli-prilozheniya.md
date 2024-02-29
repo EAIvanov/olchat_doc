@@ -1,6 +1,6 @@
 # Описание панели приложения
 
-<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Панель приложения OLChat является главным интерфейсом, содержащим набор кнопок и ссылок для управления настройками приложения, получения актуальной информации о подключенных линиях и статусах подключения.
 
@@ -15,7 +15,7 @@
 
 В столбцах списка содержится набор ссылок и кнопок для управления подключенными коннекторами и группами
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **Открытая линия.** Позволяет перейти в настройки открытой линии для данного коннектора. Подробнее в статье [nastroika-otkrytoi-linii.md](../nastroika-otkrytoi-linii.md "mention")
 2. **Коннектор.** Открывает окно настроек коннектора или окно со списком подключенных групп. Подробнее в статьях [nastroika-konnektora.md](../nastroika-konnektora.md "mention") и [gruppy.md](../../gruppovye-chaty/gruppy.md "mention")
