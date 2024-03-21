@@ -1,6 +1,6 @@
 # Описание панели приложения
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1020).png" alt=""><figcaption></figcaption></figure>
 
 Панель приложения OLChat является главным интерфейсом, содержащим набор кнопок и ссылок для управления настройками приложения, получения актуальной информации о подключенных линиях и статусах подключения.
 

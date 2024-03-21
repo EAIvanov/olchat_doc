@@ -24,7 +24,7 @@
 
 Или со страницы приложения OLChat в меню слева сразу перейти в настройки нужного коннектора. Для этого нужно нажать на название коннектора.
 
-![](<../.gitbook/assets/image (793).png>)
+<figure><img src="../.gitbook/assets/image (1016).png" alt=""><figcaption></figcaption></figure>
 
 ### Сканирование QR-кода
 

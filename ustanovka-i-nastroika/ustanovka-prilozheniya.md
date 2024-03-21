@@ -32,9 +32,9 @@
 Также вы можете установить приложение перейдя по ссылке на Маркет: [https://www.bitrix24.ru/apps/app/infocom.olchat](https://www.bitrix24.ru/apps/app/infocom.olchat)
 {% endhint %}
 
-После установки приложение OLChat — Чаты и Группы появится в меню слева
+После установки приложение OLChat появится в меню слева
 
-![](<../.gitbook/assets/image (699).png>)
+<figure><img src="../.gitbook/assets/image (1018).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Условия по оплате для обоих видов приложения абсолютно одинаковые.
