@@ -16,97 +16,98 @@
 
 Для простоты использования, большая часть API допускает использование GET-запросов.&#x20;
 
-{% swagger method="get" path="sendText" baseUrl="https://olchat.infocom.io/rest/webhook/wa/{{token}}/" summary="Отправка сообщения" %}
-{% swagger-description %}
+## Отправка сообщения
+
+<mark style="color:blue;">`GET`</mark> `https://olchat.infocom.io/rest/webhook/wa/{{token}}/sendText`
+
 Позволяет отправить текстовое сообщение на указанный номер телефона в WhatsApp.
 
 Ограничение: 5 запросов в 3 секунды
-{% endswagger-description %}
 
-{% swagger-parameter in="path" name="phone_number" required="true" type="str" %}
-Номер телефона
-{% endswagger-parameter %}
+#### Path Parameters
 
-{% swagger-parameter in="path" name="body" required="true" type="text" %}
-Тело сообщения
-{% endswagger-parameter %}
+| Name                                             | Type | Description                                                  |
+| ------------------------------------------------ | ---- | ------------------------------------------------------------ |
+| phone\_number<mark style="color:red;">\*</mark>  | str  | Номер телефона                                               |
+| body<mark style="color:red;">\*</mark>           | text | Тело сообщения                                               |
+| send\_to\_imol<mark style="color:red;">\*</mark> | Y\|N | Отправка в чат Открытой Линии. Может принимать значение Y\|N |
 
-{% swagger-parameter in="path" name="send_to_imol" type="Y|N" required="true" %}
-Отправка в чат Открытой Линии. Может принимать значение Y|N
-{% endswagger-parameter %}
+{% tabs %}
+{% tab title="200: OK " %}
 
-{% swagger-response status="200: OK" description="" %}
+{% endtab %}
+{% endtabs %}
 
-{% endswagger-response %}
-{% endswagger %}
+## Отправка файла
 
-{% swagger method="get" path="sendFile" baseUrl="https://olchat.infocom.io/rest/webhook/wa/{{token}}/" summary="Отправка файла" %}
-{% swagger-description %}
+<mark style="color:blue;">`GET`</mark> `https://olchat.infocom.io/rest/webhook/wa/{{token}}/sendFile`
+
 Позволяет отправить файл на указанный номер телефона в WhatsApp. В качестве файла указывается прямая ссылка на файл. Подробнее в статье [#sozdanie-pryamoi-ssylki-na-fail](../roboty-i-aktiviti/sozdanie-pryamoi-ssylki-na-fail.md#sozdanie-pryamoi-ssylki-na-fail "mention").
 
 Ограничение: 5 запросов в 3 секунды
-{% endswagger-description %}
 
-{% swagger-parameter in="path" name="phone_number" required="true" type="str" %}
-Номер телефона
-{% endswagger-parameter %}
+#### Path Parameters
 
-{% swagger-parameter in="path" name="body" required="true" type="url" %}
-Прямая ссылка на файл
-{% endswagger-parameter %}
+| Name                                             | Type | Description                                                  |
+| ------------------------------------------------ | ---- | ------------------------------------------------------------ |
+| phone\_number<mark style="color:red;">\*</mark>  | str  | Номер телефона                                               |
+| body<mark style="color:red;">\*</mark>           | url  | Прямая ссылка на файл                                        |
+| send\_to\_imol<mark style="color:red;">\*</mark> | Y\|N | Отправка в чат Открытой Линии. Может принимать значение Y\|N |
 
-{% swagger-parameter in="path" name="send_to_imol" type="Y|N" required="true" %}
-Отправка в чат Открытой Линии. Может принимать значение Y|N
-{% endswagger-parameter %}
+{% tabs %}
+{% tab title="200: OK " %}
 
-{% swagger-response status="200: OK" description="" %}
+{% endtab %}
+{% endtabs %}
 
-{% endswagger-response %}
-{% endswagger %}
+## Проверка WA на номере
 
-{% swagger method="get" path="checkPhone" baseUrl="https://olchat.infocom.io/rest/webhook/wa/{{token}}/" summary="Проверка WA на номере" %}
-{% swagger-description %}
+<mark style="color:blue;">`GET`</mark> `https://olchat.infocom.io/rest/webhook/wa/{{token}}/checkPhone`
+
 Позволяет проверить наличие на номере аккаунта WhatsApp.
 
 Ограничение: 3 запроса в 1 секунду
 
 **ВАЖНО! Не злоупотребляйте этим методом, т.к. высока вероятность блокировки вашего аккаунта со стороны WhatsApp**
-{% endswagger-description %}
 
-{% swagger-parameter in="path" name="phone_number" type="str" required="true" %}
-Номер телефона
-{% endswagger-parameter %}
+#### Path Parameters
 
-{% swagger-response status="200: OK" description="" %}
+| Name                                            | Type | Description    |
+| ----------------------------------------------- | ---- | -------------- |
+| phone\_number<mark style="color:red;">\*</mark> | str  | Номер телефона |
 
-{% endswagger-response %}
-{% endswagger %}
+{% tabs %}
+{% tab title="200: OK " %}
 
-{% swagger method="get" path="checkStatus" baseUrl="https://olchat.infocom.io/rest/webhook/wa/{{token}}/" summary="Проверка статуса линии" %}
-{% swagger-description %}
+{% endtab %}
+{% endtabs %}
+
+## Проверка статуса линии
+
+<mark style="color:blue;">`GET`</mark> `https://olchat.infocom.io/rest/webhook/wa/{{token}}/checkStatus`
+
 Позволяет проверить статус текущей линии.
 
 Ограничение: 5 запросов в 3 секунды
-{% endswagger-description %}
-{% endswagger %}
 
-{% swagger method="get" path="checkMessageStatus" baseUrl="https://olchat.infocom.io/rest/webhook/wa/{{token}}/" summary="Проверка статуса сообщения" %}
-{% swagger-description %}
+## Проверка статуса сообщения
+
+<mark style="color:blue;">`GET`</mark> `https://olchat.infocom.io/rest/webhook/wa/{{token}}/checkMessageStatus`
+
 Ограничение: 5 запросов в 3 секунды
-{% endswagger-description %}
 
-{% swagger-parameter in="path" name="phone_number" type="str" required="true" %}
-Номер телефона
-{% endswagger-parameter %}
+#### Path Parameters
 
-{% swagger-parameter in="path" name="message_id" type="str" required="true" %}
-ID сообщения
-{% endswagger-parameter %}
+| Name                                            | Type | Description    |
+| ----------------------------------------------- | ---- | -------------- |
+| phone\_number<mark style="color:red;">\*</mark> | str  | Номер телефона |
+| message\_id<mark style="color:red;">\*</mark>   | str  | ID сообщения   |
 
-{% swagger-response status="200: OK" description="" %}
+{% tabs %}
+{% tab title="200: OK " %}
 
-{% endswagger-response %}
-{% endswagger %}
+{% endtab %}
+{% endtabs %}
 
 ### Где можно использовать REST API
 
@@ -117,3 +118,11 @@ ID сообщения
 * В качестве **phone\_number** передайте в запрос номер телефона из формы
 * В качестве **body** – ваш текст сообщения, например: «Мы получили вашу заявку, номер вашего заказа №00001»
 * В **send\_to\_imol** передайте Y или N
+
+
+
+Другие примеры использования REST API:
+
+1. Уведомление о записи на приём из сторонней системы (например, запись на приём у стоматолога);
+2. Отправка уведомления из 1С;
+3. Сообщение с номера телефона для интегратора.

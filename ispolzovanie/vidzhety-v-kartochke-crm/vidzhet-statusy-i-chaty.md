@@ -59,3 +59,7 @@
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (774).png" alt=""><figcaption></figcaption></figure>
+
+### Что делать, если виджет не работает?
+
+Необходимо обновить виджет и проверить [права на приложение](https://docs.olchat.io/ustanovka-i-nastroika/nastroika-prav-dlya-raboty-s-prilozheniem-olchat#prava-na-prilozhenie).
