@@ -121,6 +121,8 @@
 * [Работа с чатами](voprosy-i-otvety/rabota-s-chatami/README.md)
   * [Почему не создался чат открытой линии?](voprosy-i-otvety/rabota-s-chatami/pochemu-ne-sozdalsya-chat-otkrytoi-linii.md)
   * [Почему сообщение ушло не на того менеджера?](voprosy-i-otvety/rabota-s-chatami/pochemu-soobshenie-ushlo-ne-na-togo-menedzhera.md)
+  * [Был подключен ранее другой сервис. Эти чаты сохраняться?](voprosy-i-otvety/rabota-s-chatami/byl-podklyuchen-ranee-drugoi-servis.-eti-chaty-sokhranyatsya.md)
+  * [При смене номера чаты сохраняться?](voprosy-i-otvety/rabota-s-chatami/pri-smene-nomera-chaty-sokhranyatsya.md)
   * [Как включить или отключить публикацию сообщений в чат?](voprosy-i-otvety/rabota-s-chatami/kak-vklyuchit-ili-otklyuchit-publikaciyu-soobshenii-v-chat.md)
   * [Как дать ссылку на конкретный чат?](voprosy-i-otvety/rabota-s-chatami/kak-dat-ssylku-na-konkretnyi-chat.md)
   * [Создали шаблоны сообщений. Как их отправлять в чат прямо в переписке?](voprosy-i-otvety/rabota-s-chatami/sozdali-shablony-soobshenii.-kak-ikh-otpravlyat-v-chat-pryamo-v-perepiske.md)
