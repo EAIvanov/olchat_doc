@@ -6,4 +6,4 @@
 
 
 
-Если у вас коробочная версия, то необходимо проверить [дополнительные настройки](https://docs.olchat.io/ustanovka-i-nastroika/dopolnitelnye-nastroiki-dlya-korobochnoi-versii-bitriks24#servera-bitriks24).
+Если у вас коробочная версия, то необходимо проверить [дополнительные настройки](https://docs.olchat.io/ustanovka-i-nastroika/dopolnitelnye-nastroiki-dlya-korobochnoi-versii-bitriks24).
