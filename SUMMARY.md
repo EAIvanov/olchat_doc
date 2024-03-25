@@ -136,6 +136,7 @@
   * [Ошибка загрузки страницы OLChat на портале Битрикс24](voprosy-i-otvety/interfeisy-bitriks24/oshibka-zagruzki-stranicy-olchat-na-portale-bitriks24.md)
   * [Можно ли по-другому сортировать чаты Открытой линии?](voprosy-i-otvety/interfeisy-bitriks24/mozhno-li-po-drugomu-sortirovat-chaty-otkrytoi-linii.md)
   * [Ошибка "Отсутствует соединение с сервером"](voprosy-i-otvety/interfeisy-bitriks24/oshibka-otsutstvuet-soedinenie-s-serverom.md)
+  * [Ошибка "Ошибка получения токена авторизации"](voprosy-i-otvety/interfeisy-bitriks24/oshibka-oshibka-polucheniya-tokena-avtorizacii.md)
 * [Интерфейсы WhatsApp](voprosy-i-otvety/interfeisy-whatsapp/README.md)
   * [Почему сбрасывается подключение до QR-кода?](voprosy-i-otvety/interfeisy-whatsapp/pochemu-sbrasyvaetsya-podklyuchenie-do-qr-koda.md)
   * [Ошибки доставки и воспроизведения аудиосообщений](voprosy-i-otvety/interfeisy-whatsapp/oshibki-dostavki-i-vosproizvedeniya-audiosoobshenii.md)
