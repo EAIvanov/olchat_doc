@@ -34,7 +34,7 @@
 
 После установки приложение OLChat появится в меню слева
 
-<figure><img src="../.gitbook/assets/image (1018).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1021).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Условия по оплате для обоих видов приложения абсолютно одинаковые.
