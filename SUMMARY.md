@@ -140,6 +140,7 @@
   * [Ошибка "Отсутствует соединение с сервером"](voprosy-i-otvety/interfeisy-bitriks24/oshibka-otsutstvuet-soedinenie-s-serverom.md)
   * [Ошибка "Ошибка получения токена авторизации"](voprosy-i-otvety/interfeisy-bitriks24/oshibka-oshibka-polucheniya-tokena-avtorizacii.md)
   * [Интеграция не работает. Появляется страница "Доступно по подписке Битрикс24.Маркет Плюс"](voprosy-i-otvety/interfeisy-bitriks24/integraciya-ne-rabotaet.-poyavlyaetsya-stranica-dostupno-po-podpiske-bitriks24.market-plyus.md)
+  * [Приложение раньше было установлено по подписке, но подписку не буду продлевать. Что делать?](voprosy-i-otvety/interfeisy-bitriks24/prilozhenie-ranshe-bylo-ustanovleno-po-podpiske-no-podpisku-ne-budu-prodlevat.-chto-delat.md)
 * [Интерфейсы WhatsApp](voprosy-i-otvety/interfeisy-whatsapp/README.md)
   * [Почему сбрасывается подключение до QR-кода?](voprosy-i-otvety/interfeisy-whatsapp/pochemu-sbrasyvaetsya-podklyuchenie-do-qr-koda.md)
   * [Ошибки доставки и воспроизведения аудиосообщений](voprosy-i-otvety/interfeisy-whatsapp/oshibki-dostavki-i-vosproizvedeniya-audiosoobshenii.md)
