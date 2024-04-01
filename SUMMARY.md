@@ -128,6 +128,7 @@
   * [Создали шаблоны сообщений. Как их отправлять в чат прямо в переписке?](voprosy-i-otvety/rabota-s-chatami/sozdali-shablony-soobshenii.-kak-ikh-otpravlyat-v-chat-pryamo-v-perepiske.md)
   * [Как долго хранятся файлы в чате?](voprosy-i-otvety/rabota-s-chatami/kak-dolgo-khranyatsya-faily-v-chate.md)
   * [Как сделать рассылку картинки вместе с текстом ?](voprosy-i-otvety/rabota-s-chatami/kak-sdelat-rassylku-kartinki-vmeste-s-tekstom.md)
+  * [Функция "Использовать CRM-форму для запроса контактной информации в онлайн-чате" не работает](voprosy-i-otvety/rabota-s-chatami/funkciya-ispolzovat-crm-formu-dlya-zaprosa-kontaktnoi-informacii-v-onlain-chate-ne-rabotaet.md)
   * [Ошибка "Канал коммуникации не настроен"](voprosy-i-otvety/rabota-s-chatami/oshibka-kanal-kommunikacii-ne-nastroen.md)
   * [Ошибка "Отсутствует временная папка"](voprosy-i-otvety/rabota-s-chatami/oshibka-otsutstvuet-vremennaya-papka.md)
 * [Интерфейсы Битрикс24](voprosy-i-otvety/interfeisy-bitriks24/README.md)
