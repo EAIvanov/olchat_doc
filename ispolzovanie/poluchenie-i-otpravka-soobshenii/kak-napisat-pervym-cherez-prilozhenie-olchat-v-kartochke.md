@@ -2,7 +2,7 @@
 
 Чтобы писать первыми мы разработали специальное приложение в карточке
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (281).png" alt=""><figcaption></figcaption></figure>
 
@@ -36,7 +36,7 @@
 
 **Публиковать в чате** — если значение активно, то отправленное сообщение будет опубликовано и в чате открытой линии, и в таймлайне карточки сущности. Если чат открытой линии не был создан до этого, то он будет создан после публикации сообщения. Если данная настройка отключена, отправленное сообщение будет видно только в таймлайне карточки.
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Приложение OLChat доступно для использования в карточках CRM: «Лиды», «Сделки», «Контакты», «Компании», «Заказы» и в Смарт-процессах.

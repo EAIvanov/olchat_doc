@@ -24,7 +24,7 @@
 
 6\. Отсканируйте QR-код со страницы настроек приложения OLChat.
 
-![](<../../.gitbook/assets/image (43).png>)
+<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Если на экране в разделе «состояние устройства» добавилась новая сессия, значит переавторизация прошла успешно.
@@ -40,16 +40,14 @@
 Ссылка на QR-код действительна 15 минут!
 {% endhint %}
 
-![](<../../.gitbook/assets/image (730).png>)
+<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
-Созданная ссылка отобразится под QR-кодом. Можно сразу перейти по ней или скопировать, нажав на значок «Скопировать ссылку для сканирования QR-кода». Ссылку можно отправить человеку, выполняющему подключение и не имеющему доступа к порталу.
-
-![](<../../.gitbook/assets/image (759).png>)
+Ссылка скопируется в буфер обмена. Вы можете отправить её человеку, выполняющему подключение и не имеющему доступа к порталу.
 
 Ссылка ведёт на страницу, на которой отображается информация о подключаемом портале и обновляемый раз в 15 секунд QR-код.
 
-![](<../../.gitbook/assets/image (132).png>)
+<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 После подключения устройства, страница с настройками коннектора выглядит следующим образом:
 
-<figure><img src="../../.gitbook/assets/image (1011).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>

@@ -4,13 +4,13 @@
 
 Работой с клиентом на разных этапах взаимодействия могут заниматься разные сотрудники, поэтому иногда появляется необходимость переводить чат открытой линии с одного сотрудника на другого в момент перехода сделки из воронки «Предпродажа» в воронку «Продажа».
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Выполним настройку данного сценария.
 
 Для начала в воронке «Предпродажа» на стадию «Сделка успешна» добавим робота [informaciya-o-dialoge.md](../../roboty-i-aktiviti/roboty/informaciya-o-dialoge.md "mention") и выполним его настройку как показано на скриншоте ниже:
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 В качестве «Типа идентификатора» вы можете использовать также ID чата или ID диалога, которые можно получить из дополнительных результатов робота [poluchit-informaciyu-o-chate-iz-whatsapp.md](../../roboty-i-aktiviti/roboty/poluchit-informaciyu-o-chate-iz-whatsapp.md "mention").
@@ -20,7 +20,7 @@
 
 Следом добавим робота [perevesti-dialog-na-drugogo-operatora-liniyu.md](../../roboty-i-aktiviti/roboty/perevesti-dialog-na-drugogo-operatora-liniyu.md "mention")и выполним его настройку как показано на скриншоте ниже:
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Обязательно укажите, что робот должен сработать после предыдущего.
 4. В качестве «ID чата» используйте дополнительные результаты работы предыдущего робота.
@@ -29,7 +29,7 @@
 
 Последним добавьте стандартного робота Битрикс24 «Сменить воронку» и выполните его настройку:
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Укажите, что робот должен сработать после предыдущего
 2. Укажите воронку, в которую необходимо перенести сделку
@@ -39,8 +39,8 @@
 
 После смены стадии в воронке «Предпродажа» на стадию «Сделка успешна», сработают роботы, которые произведут смену воронки и ответственного за чат:
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 В чате открытой линии также отобразится факт передачи диалога:
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

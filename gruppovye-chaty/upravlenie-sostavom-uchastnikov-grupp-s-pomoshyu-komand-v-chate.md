@@ -19,7 +19,7 @@
 Упоминание сотрудника в чате можно вызвать через набор символа «собака» **«@»** или нажатием на иконку, как показано на скриншоте ниже.
 {% endhint %}
 
-![](<../.gitbook/assets/image (38).png>)
+![](<../.gitbook/assets/image (38) (1).png>)
 
 {% hint style="info" %}
 Перед добавлением в группу пользователей по номеру телефона, рекомендуем ознакомиться со статьёй [osobennosti-dobavleniya-polzovatelei-v-gruppy.md](osobennosti-dobavleniya-polzovatelei-v-gruppy.md "mention")

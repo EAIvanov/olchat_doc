@@ -16,7 +16,7 @@
 Игнорирование данной рекомендации может привести к блокировке вашего аккаунта WhatsApp!
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (42) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Подключение групп
 

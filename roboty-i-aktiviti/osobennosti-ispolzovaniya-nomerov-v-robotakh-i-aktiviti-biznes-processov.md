@@ -31,7 +31,7 @@
 
 <figure><img src="../.gitbook/assets/image (905).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Используйте** [**функцию firstvalue**](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE\_ID=57\&LESSON\_ID=4912) для указания первого значения из массива номеров.
 
@@ -51,7 +51,7 @@
 
 В круглых скобках функции укажите массив номеров, из которых нужно выбрать первое значение. Например, **\{{Контакт: Телефон\}}.**
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Обратите внимание, что при использовании функции **firstvalue** переменную **\{{Телефон\}} / \{{Контакт: Телефон\}} / \{{Компания: Телефон\}}** нужно передавать без модификатора «(текст)», т.к. важно передавать именно массив номеров.
