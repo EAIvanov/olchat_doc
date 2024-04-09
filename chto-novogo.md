@@ -2,7 +2,7 @@
 
 ## 09.04.2024
 
-1. Современный, удобный, интуитивно понятный — новый интерфейс приложения OLChat WhatsApp&#x20;
+1. Современный, удобный, интуитивно понятный — новый интерфейс приложения OLChat WhatsApp [opisanie-paneli-prilozheniya.md](ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-paneli-prilozheniya.md "mention")
 2. Обновлённый интерфейс настроек коннектора для быстрого подключения, легкого и понятного процесса настроек [opisanie-nastroek-konnektora.md](ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-nastroek-konnektora.md "mention")
 3. Автоматическое преобразование голосовых сообщений в текст теперь длительностью до 5 минут. Кроме того, мы добавили отображение эмоциональной окраски и краткое содержание голосового сообщения, чтобы ваши менеджеры экономили время и лучше понимали клиента [#rasshifrovka-golosovykh-soobshenii](ispolzovanie/poluchenie-i-otpravka-soobshenii/#rasshifrovka-golosovykh-soobshenii "mention")
 4. Звонки в WhatsApp под контролем! Фиксирование входящих звонков в WhatsApp с определением типа - пропущенный, отвеченный и сброшенный [avtootvetchik.md](avtootvetchik.md "mention")
