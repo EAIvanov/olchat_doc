@@ -5,7 +5,7 @@
 1. Зайдите в настройки коннектора
 2. В разделе «Настройка виджета на сайт» в текст приветственного сообщения  добавьте идентификатор Roistat **{roistat\_visit}**
 
-<figure><img src="../.gitbook/assets/image (503).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1034).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Обратите внимание, что если клиент удалит параметр **{roistat\_visit}** из первого отправляемого сообщения, данные аналитики вы получить не сможете!

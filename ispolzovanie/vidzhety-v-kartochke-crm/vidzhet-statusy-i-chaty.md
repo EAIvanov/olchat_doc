@@ -5,7 +5,7 @@
 <figure><img src="../../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Подробнее о том, как включить и показать виджет в карточке ознакомьтесь в статье [#kak-vklyuchit-vidzhety](./#kak-vklyuchit-vidzhety "mention")
+Подробнее о том, как включить и показать виджет в карточке ознакомьтесь в статье [#kak-vklyuchit-i-vyklyuchit-vidzhety](./#kak-vklyuchit-i-vyklyuchit-vidzhety "mention")
 {% endhint %}
 
 ### Выбор линии и номера телефона клиента
