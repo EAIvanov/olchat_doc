@@ -1,7 +1,5 @@
 # Групповые чаты
 
-{% embed url="https://www.youtube.com/watch?v=u3kdYK5u3dg" %}
-
 Мы интегрировали групповые чаты WhatsApp в Битрикс24. Все групповые чаты отображаются в Чатах, а не в Открытых линиях.
 
 {% hint style="info" %}
@@ -16,17 +14,19 @@
 Игнорирование данной рекомендации может привести к блокировке вашего аккаунта WhatsApp!
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (42) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1038).png" alt=""><figcaption></figcaption></figure>
 
 ### Подключение групп
 
-Чтобы подключить группы WhatsApp, в левом меню на портале зайдите в приложение **OLChat.** Затем перейдите в настройки групп. Для этого в столбце «Коннектор» кликните по ссылке «X из Y групп подключено» либо нажмите на копку «WA ГРУППЫ».
+Чтобы подключить группы WhatsApp, в левом меню на портале зайдите в приложение OLChat**.** Затем перейдите в «Настройки групп» в меню приложения или в списке аккаунтов напротив «Группы WhatsApp» нажмите на **«•••»** – значок вызова настроек подключенных групп:
 
-<figure><img src="../.gitbook/assets/image (901).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1039).png" alt=""><figcaption></figcaption></figure>
 
 В открывшемся окне нажмите на кнопку **«ДЕЙСТВИЯ» — «ПОДКЛЮЧИТЬ ГРУППУ»**, выберите активный коннектор, затем группу, которую хотите подключить и нажмите на кнопку «ПОДКЛЮЧИТЬ ГРУППУ». Группа подключена и вы можете перейти в создавшийся чат.
 
-<figure><img src="../.gitbook/assets/Группы wa 19.01.23.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1040).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (1041).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Список групп для удобства отображения отсортирован в алфавитном порядке. Также доступен поиск по группам.

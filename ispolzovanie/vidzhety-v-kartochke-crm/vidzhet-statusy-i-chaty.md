@@ -5,7 +5,17 @@
 <figure><img src="../../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
+По умолчанию виджет «Статусы и чаты» при заходе в карточку сущности отображаются в скрытом виде с кнопкой «ОТОБРАЗИТЬ ВИДЖЕТ».
+
+Сделано это для снижения рисков блокировки номера, т.к. при каждом заходе в карточку, виджетом производится проверка номеров указанных в карточке на наличие аккаунта WhatsApp. При этом, если вы не производите отправку сообщений посредством приложения, возрастает соотношение количества проверок номеров к количеству отправок, что может повлечь за собой блокировку вашего аккаунта WhatsApp.
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
 Подробнее о том, как включить и показать виджет в карточке ознакомьтесь в статье [#kak-vklyuchit-i-vyklyuchit-vidzhety](./#kak-vklyuchit-i-vyklyuchit-vidzhety "mention")
+
+Если вы хотите включить виджет «Статусы и чаты» для постоянного отображения, ознакомьтесь с разделом статьи [#vozmozhnosti](../../ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-nastroek-prilozheniya.md#vozmozhnosti "mention")
 {% endhint %}
 
 ### Выбор линии и номера телефона клиента
