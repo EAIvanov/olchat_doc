@@ -4,12 +4,13 @@
 
 ### Меню приложения
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 * Пункт меню **«WhatsApp»** — позволяет добавлять дополнительные аккаунты WhatsApp в ваш Битрикс24. Подробнее в статье [dobavlenie-dopolnitelnykh-akkauntov-whatsapp.md](../akkaunty-i-avtorizaciya/dobavlenie-dopolnitelnykh-akkauntov-whatsapp.md "mention")
 * Пункт меню **«Telegram аккаунт».** Позволяет перейти к приложению «OLChat Telegram» для подключения аккаунта Telegram в Битрикс24. Если приложение не установлено на портале – осуществится переход в Битрикс24.Маркет для установки приложения. Подробнее в документации [OLChat: Telegram — чат Telegram для открытых линий Битрикс24](https://tg.docs.olchat.io/)
 * Пункт меню **«WhatsApp Business API».** Позволяет перейти к приложению «Whatsabi» для подключения официального WhatsApp Business API в Битрикс24. Если приложение не установлено на портале, и вы хотите узнать подробности подключения - [свяжитесь с нами](https://auth2.bitrix24.net/oauth/select/?preset=im\&IM\_DIALOG=networkLines7c380c91ab28dacab02d3af93fecdbf9) для получения консультации.
 * Пункт меню **«Рассылки».** Открывает страницу просмотра статусов рассылок CRM-маркетинга. Подробнее в статье [stranica-prosmotra-statusov-rassylok-crm-marketinga.md](../../rassylka-soobshenii/stranica-prosmotra-statusov-rassylok-crm-marketinga.md "mention")
+* Пункт меню **«Список диалогов».** Открывает страницу просмотра Списка диалогов. Подробнее в статье Битрикс24 [Список диалогов: как найти чаты открытых линий](https://helpdesk.bitrix24.ru/open/18077662/)
 * Пункт меню **«Настройки групп».** Открывает окно настроек для управления группами. Подробнее в статье [gruppy.md](../../gruppovye-chaty/gruppy.md "mention")
 * Пункт меню **«Настройки».** Подробнее в статье [opisanie-nastroek-prilozheniya.md](opisanie-nastroek-prilozheniya.md "mention")
 * Пункт меню **«Ваш партнёр»**. Если вы подключались к приложению через партнёра – будет указано название партнёра и данные для связи с ним.
