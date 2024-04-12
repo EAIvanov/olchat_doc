@@ -2,7 +2,7 @@
 
 После установки перейдите в приложение «OLChat» в левом меню портала:
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Подключение открытой линии <a href="#podklyuchenie-otkrytoi-linii" id="podklyuchenie-otkrytoi-linii"></a>
 

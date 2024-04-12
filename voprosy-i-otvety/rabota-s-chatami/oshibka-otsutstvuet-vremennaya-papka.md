@@ -2,4 +2,4 @@
 
 По данному вопросы вам необходимо обратиться к Б24 или системному администратору. Так как это связано с загрузкой файлов и хранением на вашем портале.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
