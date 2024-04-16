@@ -4,7 +4,7 @@
 
 ### Меню приложения
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Пункт меню **«WhatsApp»** — позволяет добавлять дополнительные аккаунты WhatsApp в ваш Битрикс24. Подробнее в статье [dobavlenie-dopolnitelnykh-akkauntov-whatsapp.md](../akkaunty-i-avtorizaciya/dobavlenie-dopolnitelnykh-akkauntov-whatsapp.md "mention")
 * Пункт меню **«Telegram аккаунт».** Позволяет перейти к приложению «OLChat Telegram» для подключения аккаунта Telegram в Битрикс24. Если приложение не установлено на портале – осуществится переход в Битрикс24.Маркет для установки приложения. Подробнее в документации [OLChat: Telegram — чат Telegram для открытых линий Битрикс24](https://tg.docs.olchat.io/)
