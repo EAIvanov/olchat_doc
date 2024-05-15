@@ -19,7 +19,7 @@
 ### Подключение коннектора
 
 {% hint style="warning" %}
-Перед подключением и настройкой коннектора, обязательно ознакомьтесь со статьёй [blokirovka-nomera.md](../blokirovka-nomera.md "mention")
+Перед подключением и настройкой коннектора, обязательно ознакомьтесь со статьёй [blokirovka-nomera](../blokirovka-nomera/ "mention")
 {% endhint %}
 
 {% hint style="warning" %}

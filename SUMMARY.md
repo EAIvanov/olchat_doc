@@ -2,8 +2,8 @@
 
 * [OLChat — чат WhatsApp для открытых линий Битрикс24](README.md)
 * [Важная информация!](vazhnaya-informaciya.md)
-* [Блокировка номера](blokirovka-nomera.md)
-* [Подозрение на спам](podozrenie-na-spam.md)
+* [Блокировка номера](blokirovka-nomera/README.md)
+  * [Подозрение на спам](blokirovka-nomera/podozrenie-na-spam.md)
 * [Тарифы приложения](stoimost-i-oplata-prilozheniya/README.md)
   * [Оплата коннектора](stoimost-i-oplata-prilozheniya/oplata-konnektora.md)
   * [Оплата групп WhatsApp](stoimost-i-oplata-prilozheniya/oplata-grupp-whatsapp.md)

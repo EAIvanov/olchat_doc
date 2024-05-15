@@ -2,9 +2,9 @@
 
 Если WhatsApp обнаружил спам-активность на вашем номере, работа аккаунта на время приостанавливается. Статус аккаунта будет отображаться в основном интерфейсе приложения, в настройках коннектора и в чате уведомлений:
 
-<figure><img src=".gitbook/assets/image (1047).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1047).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1048).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1048).png" alt=""><figcaption></figcaption></figure>
 
 ## Почему может возникнуть статус Подозрения на спам?
 
@@ -21,5 +21,5 @@
 4. Также может помочь смена номера.
 {% endhint %}
 
-Для предотвращение получения статуса Подозрение на спам необходимы ознакомиться с нашими рекомендациями в [статье](blokirovka-nomera.md).
+Для предотвращение получения статуса Подозрение на спам необходимы ознакомиться с нашими рекомендациями в [статье](./).
 

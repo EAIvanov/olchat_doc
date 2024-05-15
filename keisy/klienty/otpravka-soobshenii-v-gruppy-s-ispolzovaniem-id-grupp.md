@@ -16,11 +16,11 @@
 
 Создадим пользовательское поле типа «Строка» в карточке сущности:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Задайте название полю «ID Группы» и нажмите на кнопку «СОХРАНИТЬ»:
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Далее, необходимо получить ID группы и сохранить его в созданном пользовательском поле. Для получения ID группы необходимо перейти в приложение «OLChat» в левом меню портала и в открывшемся приложении выбрать пункт меню «Настройки групп»:
 

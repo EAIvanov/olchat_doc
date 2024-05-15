@@ -8,4 +8,4 @@
 
 Необходимо обновить WhatsApp  на телефоне (в Play Market или App Store), потом необходимо переподключить (отключить от приложения в Битрикс24 и снова отсканировать код) в приложении в Б24.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
