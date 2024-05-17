@@ -92,6 +92,8 @@
   * [Отправка сообщения в группу](gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/otpravka-soobsheniya-v-gruppu.md)
   * [Отправка файла в группу](gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/otpravka-faila-v-gruppu.md)
   * [Управление группой](gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/upravlenie-gruppoi.md)
+  * [Создание группы](gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/sozdanie-gruppy.md)
+  * [Получение ссылки на группу](gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/poluchenie-ssylki-na-gruppu.md)
 * [Управление настройками и участниками групп через приложение](gruppovye-chaty/upravlenie-nastroikami-i-uchastnikami-grupp-cherez-prilozhenie.md)
 * [Управление составом участников групп с помощью команд в чате](gruppovye-chaty/upravlenie-sostavom-uchastnikov-grupp-s-pomoshyu-komand-v-chate.md)
 * [Особенности добавления пользователей в группы](gruppovye-chaty/osobennosti-dobavleniya-polzovatelei-v-gruppy.md)

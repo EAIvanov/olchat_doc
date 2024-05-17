@@ -16,7 +16,7 @@
 
 <figure><img src=".gitbook/assets/image (1028).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1029).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1102).png" alt=""><figcaption></figcaption></figure>
 
 Кроме того, пропущенные, сброшенные и отвеченные звонки и видео-звонки, фиксируются в чате Открытой линии:&#x20;
 

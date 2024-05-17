@@ -1,5 +1,13 @@
 # Что нового?
 
+## 17.05.2024
+
+1. Работать с шаблонами сообщений стало еще удобнее! Теперь вы можете отправлять шаблоны напрямую из Открытых линий, что делает быстрые ответы в чатах доступными на всех тарифах Битрикс24 [#otpravka-shablonnogo-soobsheniya-iz-chata-otkrytoi-linii](shablony-soobshenii.md#otpravka-shablonnogo-soobsheniya-iz-chata-otkrytoi-linii "mention")
+2. Появились новые настройки шаблонов. Вы можете задавать параметры в шаблонах, переменные из сущностей CRM будут подставляться автоматически. Можно сортировать шаблоны по категориям и гибко настраивать права доступа для сотрудников [shablony-soobshenii.md](shablony-soobshenii.md "mention")
+3. В карточках CRM дела «Чат» и «Пропущенный звонок WhatsApp» отображаются в новом виде, содержат больше данных и добавлены в мобильное приложение Битрикс24. Появилась возможность из дела открыть чат [kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md](ispolzovanie/poluchenie-i-otpravka-soobshenii/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md "mention")&#x20;
+4. Добавлена новая настройка в роботе [otpravka-soobsheniya.md](roboty-i-aktiviti/roboty/otpravka-soobsheniya.md "mention") – «Выбор очереди отправки». Эта опция позволяет направлять сообщения от роботов в специальную очередь, для которой устанавливается отдельный интервал между отправками сообщений. Это снижает риск блокировки и не задерживает остальные сообщения [#intervaly-otpravki-soobshenii](ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-nastroek-konnektora.md#intervaly-otpravki-soobshenii "mention")
+5. Добавлены новые роботы [sozdanie-gruppy.md](gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/sozdanie-gruppy.md "mention") WhatsApp и [poluchenie-ssylki-na-gruppu.md](gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/poluchenie-ssylki-na-gruppu.md "mention"). Теперь вы можете на нужной стадии лида/сделки настроить автоматическое создание групповых чатов, получение и отправку ссылки на группы клиентам
+
 ## 09.04.2024
 
 1. Современный, удобный, интуитивно понятный — новый интерфейс приложения OLChat WhatsApp [opisanie-paneli-prilozheniya.md](ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-paneli-prilozheniya.md "mention")

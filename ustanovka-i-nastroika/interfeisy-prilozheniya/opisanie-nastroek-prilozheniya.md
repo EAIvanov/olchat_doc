@@ -25,19 +25,22 @@
 
 ### Роботы
 
-<figure><img src="../../.gitbook/assets/image (932).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1095).png" alt=""><figcaption></figcaption></figure>
 
-Раздел «РОБОТЫ» содержит список всех роботов и активити бизнес-процессов приложения OLChat и кнопку для их обновления. Подробнее в статьях [roboty](../../roboty-i-aktiviti/roboty/ "mention") и [Broken link](broken-reference "mention")
+Раздел «РОБОТЫ» содержит список всех роботов и активити бизнес-процессов приложения OLChat и кнопку для их обновления. Подробнее в статье [roboty](../../roboty-i-aktiviti/roboty/ "mention")
 
 ### Возможности
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1097).png" alt=""><figcaption></figcaption></figure>
 
-В разделе «ВОЗМОЖНОСТИ» можно произвести включение/выключение виджетов «Статусы и чаты» и «Встройка в карточку звонка». Подробнее в статье [vidzhety-v-kartochke-crm](../../ispolzovanie/vidzhety-v-kartochke-crm/ "mention")
+В разделе «ВОЗМОЖНОСТИ» можно произвести включение/выключение отображения шаблонов в чате и виджетов «Статусы и чаты» и «Встройка в карточку звонка».
 
-1. Подробнее о виджете «Статусы и чаты» в статье [vidzhet-statusy-i-chaty.md](../../ispolzovanie/vidzhety-v-kartochke-crm/vidzhet-statusy-i-chaty.md "mention")
-2. Подробнее о виджете «Встройка в карточку звонка» в статье [vstroika-v-kartochku-zvonka.md](../../ispolzovanie/vidzhety-v-kartochke-crm/vstroika-v-kartochku-zvonka.md "mention")
-3. Принудительно отображать виджет в карточке CRM. По умолчанию виджет «Статусы и чаты» при заходе в карточку сущности отображаются в скрытом виде с кнопкой «ОТОБРАЗИТЬ ВИДЖЕТ»:
+Подробнее о виджетах в статье [vidzhety-v-kartochke-crm](../../ispolzovanie/vidzhety-v-kartochke-crm/ "mention")
+
+1. Подробнее о встройке «Шаблоны в чате» в статье [#otpravka-shablonnogo-soobsheniya-iz-chata-otkrytoi-linii](../../shablony-soobshenii.md#otpravka-shablonnogo-soobsheniya-iz-chata-otkrytoi-linii "mention")
+2. Подробнее о виджете «Статусы и чаты» в статье [vidzhet-statusy-i-chaty.md](../../ispolzovanie/vidzhety-v-kartochke-crm/vidzhet-statusy-i-chaty.md "mention")
+3. Подробнее о виджете «Встройка в карточку звонка» в статье [vstroika-v-kartochku-zvonka.md](../../ispolzovanie/vidzhety-v-kartochke-crm/vstroika-v-kartochku-zvonka.md "mention")
+4. Принудительно отображать виджет в карточке CRM. По умолчанию виджет «Статусы и чаты» при заходе в карточку сущности отображаются в скрытом виде с кнопкой «ОТОБРАЗИТЬ ВИДЖЕТ»:
 
 <figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
