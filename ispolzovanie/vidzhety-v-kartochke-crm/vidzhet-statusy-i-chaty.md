@@ -73,3 +73,11 @@
 ### Что делать, если виджет не работает?
 
 Необходимо обновить виджет и проверить [права на приложение](https://docs.olchat.io/ustanovka-i-nastroika/nastroika-prav-dlya-raboty-s-prilozheniem-olchat#prava-na-prilozhenie).
+
+### Что делать при ошибке "Нет данных авторизации от Битрикс24"?&#x20;
+
+<figure><img src="../../.gitbook/assets/image (1104).png" alt=""><figcaption></figcaption></figure>
+
+В данном случае возможны следующие причины:\
+1\. У сотрудника нет прав на приложение и поэтому виджет не видит авторизацию. Необходимо проверить [Права на приложение](../../ustanovka-i-nastroika/nastroika-prav-dlya-raboty-s-prilozheniem-olchat.md).\
+2\. Есть проблемы с сервером авторизации Битрикс24. Нужно ждать решение от Битрикс24.&#x20;
