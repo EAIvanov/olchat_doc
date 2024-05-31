@@ -25,6 +25,7 @@
   * [Авторизация устройства](ustanovka-i-nastroika/akkaunty-i-avtorizaciya/avtorizaciya-ustroistva.md)
   * [Добавление дополнительных аккаунтов WhatsApp](ustanovka-i-nastroika/akkaunty-i-avtorizaciya/dobavlenie-dopolnitelnykh-akkauntov-whatsapp.md)
   * [Подключение WhatsApp на другой номер телефона](ustanovka-i-nastroika/akkaunty-i-avtorizaciya/dobavlenie-dopolnitelnykh-akkauntov-whatsapp-1.md)
+  * [Как подключить виртуальный номер?](ustanovka-i-nastroika/akkaunty-i-avtorizaciya/kak-podklyuchit-virtualnyi-nomer.md)
 * [Дополнительные настройки для коробочной версии Битрикс24](ustanovka-i-nastroika/dopolnitelnye-nastroiki-dlya-korobochnoi-versii-bitriks24.md)
 * [Переустановка приложения](ustanovka-i-nastroika/pereustanovka-prilozheniya.md)
 
@@ -144,6 +145,7 @@
   * [Ошибка "Ошибка получения токена авторизации"](voprosy-i-otvety/interfeisy-bitriks24/oshibka-oshibka-polucheniya-tokena-avtorizacii.md)
   * [Интеграция не работает. Появляется страница "Доступно по подписке Битрикс24.Маркет Плюс"](voprosy-i-otvety/interfeisy-bitriks24/integraciya-ne-rabotaet.-poyavlyaetsya-stranica-dostupno-po-podpiske-bitriks24.market-plyus.md)
   * [Приложение раньше было установлено по подписке, но подписку не буду продлевать. Что делать?](voprosy-i-otvety/interfeisy-bitriks24/prilozhenie-ranshe-bylo-ustanovleno-po-podpiske-no-podpisku-ne-budu-prodlevat.-chto-delat.md)
+  * [Что за уведомление "До конца оплаченного периода использования приложения осталось \_ дней"?](voprosy-i-otvety/interfeisy-bitriks24/chto-za-uvedomlenie-do-konca-oplachennogo-perioda-ispolzovaniya-prilozheniya-ostalos-\_-dnei.md)
 * [Интерфейсы WhatsApp](voprosy-i-otvety/interfeisy-whatsapp/README.md)
   * [Почему сбрасывается подключение до QR-кода?](voprosy-i-otvety/interfeisy-whatsapp/pochemu-sbrasyvaetsya-podklyuchenie-do-qr-koda.md)
   * [Ошибки доставки и воспроизведения аудиосообщений](voprosy-i-otvety/interfeisy-whatsapp/oshibki-dostavki-i-vosproizvedeniya-audiosoobshenii.md)
