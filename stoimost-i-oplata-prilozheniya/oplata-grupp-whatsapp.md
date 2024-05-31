@@ -2,7 +2,7 @@
 
 Для оплаты коннектора перейдите в настройки приложения OLChat (в меню слева). Напротив групп WhatsApp нажмите на значок меню «•••» и выберите пункт «Оплатить»:
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Оплата групп WhatsApp через Робокассу
 

@@ -12,7 +12,7 @@
 
 Выполните установку приложения, нажав на кнопку «УСТАНОВИТЬ»
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Также вы можете установить приложение перейдя по ссылке на Маркет: [https://www.bitrix24.ru/apps/?app=infocom.olchat\_s\&p=132277](https://www.bitrix24.ru/apps/?app=infocom.olchat\_s\&p=132277)
