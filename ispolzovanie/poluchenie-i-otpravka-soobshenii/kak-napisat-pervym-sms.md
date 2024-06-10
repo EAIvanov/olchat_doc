@@ -12,6 +12,10 @@
 Во всех других случаях используйте функционал [чатов открытых линий](./), наше [приложение](kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md), [виджет](../vidzhety-v-kartochke-crm/), [роботов](../../roboty-i-aktiviti/roboty/).
 {% endhint %}
 
+{% hint style="info" %}
+Если вам необходимо отключить SMS-провайдера на линии, то необходимо написать нам в поддержку, чтобы мы его отключили.&#x20;
+{% endhint %}
+
 ### Отправка через веб-версию Битрикс24
 
 ![](../../.gitbook/assets/h3Dd2AEc56.gif)
