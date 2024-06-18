@@ -1,0 +1,38 @@
+# Calltouch
+
+### Настройка виджета
+
+1. Зайдите в настройки коннектора
+2. В разделе «Настройка виджета на сайт» добавьте параметр **{calltouch\_id}** в текст приветственного сообщения
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+Обратите внимание, что если клиент удалит параметр **{calltouch\_id}** из первого отправляемого сообщения, данные аналитики вы получить не сможете!
+
+Для того, чтобы клиент был заинтересован в отправке сообщения с параметром **{calltouch\_id}**, вы можете проявить креативность и как-то модифицировать текст сообщения. Например, таким образом: «Здравствуйте! Мой код для получения подарка: **{calltouch\_id}**»
+{% endhint %}
+
+### Настройка сайта
+
+Модифицируйте на сайте код следующим образом:
+
+```
+<script>
+
+	const b24w = setInterval(() => {
+		const l = document.querySelector('[data-b24-crm-button-widget=openline_olchat_wa_connector_2]')
+		if (l !== null) {
+			clearInterval(b24w)
+			window.ct('calltracking_params','calltouch_id').sessionId => l.href=l.href.replace(/\{calltouch_id\}/, cId))
+		}
+	}, 250)
+
+/* КОД ВИДЖЕТА БИТРИКС24 */
+
+/* КОД АНАЛИТИКИ ROISTAT */
+
+
+
+</script>
+```
