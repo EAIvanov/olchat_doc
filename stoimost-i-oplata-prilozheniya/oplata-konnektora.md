@@ -48,6 +48,10 @@
 Для подключения нескольких аккаунтов WhatsApp создайте несколько Открытых линий и подключите к ним коннекторы. Подробнее в статье [dobavlenie-dopolnitelnykh-akkauntov-whatsapp.md](../ustanovka-i-nastroika/akkaunty-i-avtorizaciya/dobavlenie-dopolnitelnykh-akkauntov-whatsapp.md "mention")
 {% endhint %}
 
+{% hint style="info" %}
+После выставления счета его оплатить можно в течение месяца. Затем счет будет удален.&#x20;
+{% endhint %}
+
 {% hint style="danger" %}
 Вы можете оплатить счет от другой компании. Для этого необходимо выставить счёт на ту компанию, которая будет оплачивать. Лицензия активируется на той линии, с которой вы выставляли счёт.
 {% endhint %}
