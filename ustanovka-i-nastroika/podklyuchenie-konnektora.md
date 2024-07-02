@@ -16,6 +16,11 @@
 
 <figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="success" %}
+Помните: одна линия = один коннектор = один номер.\
+Нельзя в разным линиям подключить один и тот же коннектор.
+{% endhint %}
+
 ### Подключение коннектора
 
 {% hint style="warning" %}
