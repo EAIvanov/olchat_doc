@@ -126,6 +126,7 @@
 * [Работа с чатами](voprosy-i-otvety/rabota-s-chatami/README.md)
   * [Почему не создался чат открытой линии?](voprosy-i-otvety/rabota-s-chatami/pochemu-ne-sozdalsya-chat-otkrytoi-linii.md)
   * [Почему сообщение ушло не на того менеджера?](voprosy-i-otvety/rabota-s-chatami/pochemu-soobshenie-ushlo-ne-na-togo-menedzhera.md)
+  * [Как убрать постоянные уведомления о перенаправлении чата другому менеджеру?](voprosy-i-otvety/rabota-s-chatami/kak-ubrat-postoyannye-uvedomleniya-o-perenapravlenii-chata-drugomu-menedzheru.md)
   * [Был подключен ранее другой сервис. Эти чаты сохранятся?](voprosy-i-otvety/rabota-s-chatami/byl-podklyuchen-ranee-drugoi-servis.-eti-chaty-sokhranyatsya.md)
   * [Можно ли удалить историю переписки с клиентом?](voprosy-i-otvety/rabota-s-chatami/mozhno-li-udalit-istoriyu-perepiski-s-klientom.md)
   * [Если удалить групповой чат в телефоне, история переписки останется в CRM?](voprosy-i-otvety/rabota-s-chatami/esli-udalit-gruppovoi-chat-v-telefone-istoriya-perepiski-ostanetsya-v-crm.md)
