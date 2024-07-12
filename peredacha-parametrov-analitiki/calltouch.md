@@ -34,7 +34,7 @@ console.log(sessionId);
 
 /* КОД ВИДЖЕТА БИТРИКС24 */
 
-/* КОД АНАЛИТИКИ ROISTAT */
+/* КОД АНАЛИТИКИ CALLTOUCH */
 
 
 

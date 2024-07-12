@@ -1,5 +1,13 @@
 # Описание настроек коннектора
 
+Для перехода к настройкам коннектора, в левом меню портала выберите приложение «OLChat»:
+
+<figure><img src="../../.gitbook/assets/image (1106).png" alt=""><figcaption></figcaption></figure>
+
+В открывшемся окне приложения выберите нужный коннектор, нажмите на значок меню «•••» и выберите пункт «Настройки коннектора»:
+
+<figure><img src="../../.gitbook/assets/image (1107).png" alt=""><figcaption></figcaption></figure>
+
 Окно настроек коннектора содержит в себе несколько разделов меню и кнопок для управления сценариями работы подключенного аккаунта WhatsApp (коннектора).
 
 <figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
