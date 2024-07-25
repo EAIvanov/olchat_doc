@@ -11,4 +11,4 @@
 
 Чтобы узнать к какому каналу и линии прикреплён чат, попробуйте найти его через Список диалогов (CRM — Клиенты — Контакт-центр — Список диалогов).
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
