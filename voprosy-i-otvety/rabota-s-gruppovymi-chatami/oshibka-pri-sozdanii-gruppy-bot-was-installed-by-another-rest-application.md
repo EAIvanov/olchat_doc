@@ -6,4 +6,4 @@
 
 Затем нужно либо добавить бота в группы WhatsApp в Битрикс24 повторно (и если возможно передать ему владельца чата), либо переподключить группу. Тогда всё должно быть корректно.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>

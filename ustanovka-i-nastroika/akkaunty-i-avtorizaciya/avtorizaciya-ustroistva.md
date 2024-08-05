@@ -22,9 +22,11 @@
 
 ![](<../../.gitbook/assets/image (563).png>)
 
-6\. Отсканируйте QR-код со страницы настроек приложения OLChat.
+6\. Отсканируйте QR-код.
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Если на экране в разделе «состояние устройства» добавилась новая сессия, значит переавторизация прошла успешно.
