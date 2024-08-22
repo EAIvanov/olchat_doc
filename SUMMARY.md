@@ -146,6 +146,7 @@
   * [Ошибка при добавлении пользователя Битрикс24 в группу "ACCESS\_DENIED\_EXTEND"](voprosy-i-otvety/rabota-s-gruppovymi-chatami/oshibka-pri-dobavlenii-polzovatelya-bitriks24-v-gruppu-access\_denied\_extend.md)
   * [Ошибка при создании группы "Bot was installed by another rest application"](voprosy-i-otvety/rabota-s-gruppovymi-chatami/oshibka-pri-sozdanii-gruppy-bot-was-installed-by-another-rest-application.md)
   * [Ошибка при создании группы или попытке добавить в группу "The access token provided has expired"](voprosy-i-otvety/rabota-s-gruppovymi-chatami/oshibka-pri-sozdanii-gruppy-ili-popytke-dobavit-v-gruppu-the-access-token-provided-has-expired.md)
+  * [Есть ли ограничения по количеству созданных групп?](voprosy-i-otvety/rabota-s-gruppovymi-chatami/est-li-ogranicheniya-po-kolichestvu-sozdannykh-grupp.md)
 * [Интерфейсы Битрикс24](voprosy-i-otvety/interfeisy-bitriks24/README.md)
   * [Стандартная работа входящих и исходящих сообщений](voprosy-i-otvety/interfeisy-bitriks24/standartnaya-rabota-vkhodyashikh-i-iskhodyashikh-soobshenii.md)
   * [Как работает распределение на ответственного, если разные ответственные в Сделке и в Контакте?](voprosy-i-otvety/interfeisy-bitriks24/kak-rabotaet-raspredelenie-na-otvetstvennogo-esli-raznye-otvetstvennye-v-sdelke-i-v-kontakte.md)
