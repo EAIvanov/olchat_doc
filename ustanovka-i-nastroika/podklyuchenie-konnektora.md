@@ -39,11 +39,11 @@
 
 В открывшемся окне нажмите на кнопку «Загрузить QR-код» и следуйте инструкции на экране:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Либо можно перейти к сканированию QR-кода до перехода в Настройки коннектора.&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Затем необходимо Привязать устройство с помощью приложения WhatsApp в телефоне.
 
