@@ -17,7 +17,7 @@
 
 Модифицируйте на сайте код следующим образом:
 
-```
+```javascript
 <script>
 
 window.roistatVisitCallback = function (visitId) {
