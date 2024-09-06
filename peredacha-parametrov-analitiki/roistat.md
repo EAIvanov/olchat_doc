@@ -34,7 +34,5 @@ window.roistatVisitCallback = function (visitId) {
 
 /* КОД АНАЛИТИКИ ROISTAT */
 
-
-
 </script>
 ```
