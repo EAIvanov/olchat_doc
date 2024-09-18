@@ -32,7 +32,7 @@
 
 ### Отправка через мобильное приложение Битрикс24
 
-Также вы можете отправить сообщение с помощью функционала SMS через мобильное приложение Битрикс24. Подробнее об этом [здесь](https://docs.olchat.io/ispolzovanie/poluchenie-i-otpravka-soobshenii/kak-napisat-pervym-sms#vklyuchenie-provaidera-sms-i-osobennosti-metoda).
+Также вы можете отправить сообщение с помощью функционала SMS через мобильное приложение Битрикс24. Подробнее об этом [здесь](https://docs.olchat.io/ispolzovanie/poluchenie-i-otpravka-soobshenii/otpravka-soobshenii-iz-mobilnogo-prilozheniya-bitriks24#otpravka-cherez-funkcional-sms).
 
 ### Включение провайдера SMS и особенности метода
 
