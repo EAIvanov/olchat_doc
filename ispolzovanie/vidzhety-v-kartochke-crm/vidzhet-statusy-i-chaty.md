@@ -60,7 +60,13 @@
 
 * Записать голосовое сообщение
 
-<figure><img src="../../.gitbook/assets/image (1153).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1158).png" alt=""><figcaption></figcaption></figure>
+
+### Публиковать в чат
+
+<figure><img src="../../.gitbook/assets/image (1155).png" alt=""><figcaption></figcaption></figure>
+
+Также из виджета вы можете управлять тем, будет ли сообщение, отправленное через виджет, опубликовано в чате открытой линии. Если чек-бокс «Публиковать в чат» активирован, то сообщение не только зафиксируется в таймлайне карточки, но и появится в чате открытой линии.
 
 ### История чата с клиентом
 
@@ -69,12 +75,6 @@
 <figure><img src="../../.gitbook/assets/image (1154).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (1144).png" alt=""><figcaption></figcaption></figure>
-
-### Публиковать в чат
-
-<figure><img src="../../.gitbook/assets/image (1155).png" alt=""><figcaption></figcaption></figure>
-
-Также из виджета вы можете управлять тем, будет ли сообщение, отправленное через виджет, опубликовано в чате открытой линии. Если чек-бокс «Публиковать в чат» активирован, то сообщение не только зафиксируется в таймлайне карточки, но и появится в чате открытой линии.
 
 ### Обновление информации в виджете
 
