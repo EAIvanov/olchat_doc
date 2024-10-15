@@ -4,13 +4,13 @@
 
 Работой с клиентом на разных этапах взаимодействия могут заниматься разные сотрудники, поэтому иногда появляется необходимость переводить чат открытой линии с одного сотрудника на другого в момент перехода сделки из воронки «Предпродажа» в воронку «Продажа».
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Выполним настройку данного сценария.
 
 Для начала в воронке «Предпродажа» на стадию «Сделка успешна» добавим робота [informaciya-o-dialoge.md](../../roboty-i-aktiviti/roboty/informaciya-o-dialoge.md "mention") и выполним его настройку как показано на скриншоте ниже:
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 В качестве «Типа идентификатора» вы можете использовать также ID чата или ID диалога, которые можно получить из дополнительных результатов робота [poluchit-informaciyu-o-chate-iz-whatsapp.md](../../roboty-i-aktiviti/roboty/poluchit-informaciyu-o-chate-iz-whatsapp.md "mention").

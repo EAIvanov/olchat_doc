@@ -30,9 +30,9 @@
 
 <figure><img src="../../.gitbook/assets/image (1118).png" alt=""><figcaption></figcaption></figure>
 
-Нажмите на кнопку **«Обновить данные виджета».** Виджет отобразится и будет готов к работе.
+Нажмите на кнопку **«Написать в WhatsApp».** Виджет отобразится и будет готов к работе.
 
-<figure><img src="../../.gitbook/assets/image (1119).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1122).png" alt=""><figcaption></figcaption></figure>
 
 ### Как показать виджет «Статусы и чаты» в карточке Смарт-процесса
 

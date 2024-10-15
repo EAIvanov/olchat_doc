@@ -56,6 +56,6 @@
 
 Если WhatsApp обнаружил спам-активность на вашем номере, работа аккаунта на время приостанавливается. Уведомление о аккаунта будет отображаться в основном интерфейсе приложения, в настройках коннектора и в чате уведомлений:
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
