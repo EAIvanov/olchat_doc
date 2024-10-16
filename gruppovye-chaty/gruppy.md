@@ -72,7 +72,7 @@
 10. Список пользователей. Отображает список номеров пользователей, состоящих в группе в данный момент. Чтобы добавить пользователя в группу нажмите на кнопку «ДОБАВИТЬ НОМЕР». Чтобы удалить пользователя из группы, нажмите на значок «✖» крестик напротив номера телефона пользователя.
 11. Связь с CRM. К сущности CRM можно прикрепить ссылку на групповой чат. Она появится в виджете [vidzhet-statusy-i-chaty.md](../ispolzovanie/vidzhety-v-kartochke-crm/vidzhet-statusy-i-chaty.md "mention") в карточке CRM.
 
-<figure><img src="../.gitbook/assets/image (479).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2024-10-16_16-11-11.png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Ссылка есть в группе, если подключенный номер является владельцем группы или администратором. \
