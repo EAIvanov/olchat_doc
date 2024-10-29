@@ -2,7 +2,7 @@
 
 После установки перейдите в приложение «OLChat» в левом меню портала:
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Подключение открытой линии <a href="#podklyuchenie-otkrytoi-linii" id="podklyuchenie-otkrytoi-linii"></a>
 
@@ -39,11 +39,11 @@
 
 В открывшемся окне нажмите на кнопку «Загрузить QR-код» и следуйте инструкции на экране:
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Либо можно перейти к сканированию QR-кода до перехода в Настройки коннектора.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Затем необходимо Привязать устройство с помощью приложения WhatsApp в телефоне.
 
