@@ -64,7 +64,7 @@
 
 ### Публиковать в чат
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -72,11 +72,11 @@
 
 ### Создавать Дело в таймлайне
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Если чек-бокс «Создавать Дело в таймлайне» активирован, то в таймлайне карточки после отправки сообщения создастся дело с информацией и содержанием сообщения:
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### История чата с клиентом
 

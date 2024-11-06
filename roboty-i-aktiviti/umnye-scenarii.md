@@ -14,7 +14,7 @@
 
 Добавим робота, который будет выполнять отправку сообщения в WhatsApp. Для этого необходимо нажать кнопку **+добавить ‒ Свои роботы ‒ \[OLChat] WhatsApp - Отправка сообщения.**
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Выполните настройку робота:
 

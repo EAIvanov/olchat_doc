@@ -5,4 +5,4 @@
 
 Также проверьте в настройках Открытой Линии, может у вас стоит задержка закрытия линии. В это время Лиды не создаются, по чатам нет уведомлений.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
