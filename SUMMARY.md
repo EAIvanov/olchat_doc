@@ -52,6 +52,7 @@
 * [Бот-помощник](bot-pomoshnik.md)
 * [Рассылка сообщений](rassylka-soobshenii/README.md)
   * [Страница просмотра статусов рассылок CRM-маркетинга](rassylka-soobshenii/stranica-prosmotra-statusov-rassylok-crm-marketinga.md)
+  * [Как для рассылки загрузить контакты с Excel?](rassylka-soobshenii/kak-dlya-rassylki-zagruzit-kontakty-s-excel.md)
 * [Рандомизатор сообщений](randomizator.md)
 * [Передача параметров аналитики](peredacha-parametrov-analitiki/README.md)
   * [Яндекс.Метрика ClientID](peredacha-parametrov-analitiki/yandeks.metrika-clientid.md)
