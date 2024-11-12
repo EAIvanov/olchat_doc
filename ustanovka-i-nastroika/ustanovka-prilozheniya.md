@@ -19,10 +19,3 @@
 После установки приложение OLChat появится в меню слева
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-
-
-{% hint style="warning" %}
-Если у вас был подключен пробный период Маркета, то после его окончания приложение заблокируется (точнее Маркет его заблокирует). \
-Нужно будет переустановить приложение. Инструкция [здесь](https://docs.olchat.io/ustanovka-i-nastroika/pereustanovka-prilozheniya).
-{% endhint %}
