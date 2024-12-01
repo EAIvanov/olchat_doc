@@ -16,6 +16,10 @@
 
 Для простоты использования, большая часть API допускает использование GET-запросов.&#x20;
 
+{% hint style="info" %}
+Указанные ниже технические ограничения по запросам изменить или убрать невозможно.&#x20;
+{% endhint %}
+
 ## Отправка сообщения
 
 <mark style="color:blue;">`GET`</mark> `https://olchat.infocom.io/rest/webhook/wa/{{token}}/sendText`
