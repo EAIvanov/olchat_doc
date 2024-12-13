@@ -152,6 +152,7 @@
   * [Ошибка при создании группы "The user does not have access to the application - ошибка в группе"](voprosy-i-otvety/rabota-s-gruppovymi-chatami/oshibka-pri-sozdanii-gruppy-the-user-does-not-have-access-to-the-application-oshibka-v-gruppe.md)
   * [Статус missing при наведении на группу (красный кружочек)](voprosy-i-otvety/rabota-s-gruppovymi-chatami/status-missing-pri-navedenii-na-gruppu-krasnyi-kruzhochek.md)
   * [Как добавить бота в групповой чат?](voprosy-i-otvety/rabota-s-gruppovymi-chatami/kak-dobavit-bota-v-gruppovoi-chat.md)
+  * [Есть ли возможность в групповом чате упоминать клиента?](voprosy-i-otvety/rabota-s-gruppovymi-chatami/est-li-vozmozhnost-v-gruppovom-chate-upominat-klienta.md)
   * [Есть ли ограничения по количеству созданных групп?](voprosy-i-otvety/rabota-s-gruppovymi-chatami/est-li-ogranicheniya-po-kolichestvu-sozdannykh-grupp.md)
 * [Интерфейсы Битрикс24](voprosy-i-otvety/interfeisy-bitriks24/README.md)
   * [Стандартная работа входящих и исходящих сообщений](voprosy-i-otvety/interfeisy-bitriks24/standartnaya-rabota-vkhodyashikh-i-iskhodyashikh-soobshenii.md)
