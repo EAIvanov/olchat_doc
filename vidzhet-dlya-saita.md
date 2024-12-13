@@ -16,6 +16,10 @@
 
 <figure><img src=".gitbook/assets/image (511).png" alt=""><figcaption></figcaption></figure>
 
+Далее перейдите в **Контакт-центр — Виджет на сайт**.
+
+<figure><img src=".gitbook/assets/image_2024-11-29_14_04_02.png" alt=""><figcaption></figcaption></figure>
+
 Включите канал в настройках виджета:
 
 ![](<.gitbook/assets/image (766).png>)
@@ -57,4 +61,4 @@
 
 Для реализации данного сценария можно подставить в текст ссылки какой-либо идентификатор для каждого сайта.&#x20;
 
-Подробнее ознакомиться можно [здесь](https://faq.whatsapp.com/5913398998672934/?locale=ru\_RU).
+Подробнее ознакомиться можно [здесь](https://faq.whatsapp.com/5913398998672934/?locale=ru_RU).
