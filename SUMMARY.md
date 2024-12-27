@@ -183,3 +183,4 @@
   * [Отличие WhatsApp, WhatsApp Business и WhatsApp Business API](voprosy-i-otvety/whatsapp-business-api-waba/otlichie-whatsapp-whatsapp-business-i-whatsapp-business-api.md)
   * [Битрикс24. Виртуальный WhatsApp](voprosy-i-otvety/whatsapp-business-api-waba/bitriks24.-virtualnyi-whatsapp.md)
 * [Как оставить отзыв о приложении OLChat?](voprosy-i-otvety/kak-ostavit-otzyv-o-prilozhenii-olchat.md)
+* [OLChat и хранение персональных данных](voprosy-i-otvety/olchat-i-khranenie-personalnykh-dannykh.md)
