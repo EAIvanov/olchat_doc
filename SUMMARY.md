@@ -144,7 +144,7 @@
   * [Ошибка "Канал коммуникации не настроен"](voprosy-i-otvety/rabota-s-chatami/oshibka-kanal-kommunikacii-ne-nastroen.md)
   * [Ошибка "Отсутствует временная папка"](voprosy-i-otvety/rabota-s-chatami/oshibka-otsutstvuet-vremennaya-papka.md)
   * [Ошибка "Этот файл был удален"](voprosy-i-otvety/rabota-s-chatami/oshibka-etot-fail-byl-udalen.md)
-  * [Ошибка расшифровки сообщений, вызванная потерей актуальности ключей авторизации.](voprosy-i-otvety/rabota-s-chatami/oshibka-rasshifrovki-soobshenii-vyzvannaya-poterei-aktualnosti-klyuchei-avtorizacii..md)
+  * [Ошибка расшифровки сообщений, вызванная потерей актуальности ключей авторизации](voprosy-i-otvety/rabota-s-chatami/oshibka-rasshifrovki-soobshenii-vyzvannaya-poterei-aktualnosti-klyuchei-avtorizacii.md)
 * [Работа с групповыми чатами](voprosy-i-otvety/rabota-s-gruppovymi-chatami/README.md)
   * [Ошибка при добавлении пользователя Битрикс24 в группу "ACCESS\_DENIED\_EXTEND"](voprosy-i-otvety/rabota-s-gruppovymi-chatami/oshibka-pri-dobavlenii-polzovatelya-bitriks24-v-gruppu-access_denied_extend.md)
   * [Ошибка при создании группы "Bot was installed by another rest application"](voprosy-i-otvety/rabota-s-gruppovymi-chatami/oshibka-pri-sozdanii-gruppy-bot-was-installed-by-another-rest-application.md)
