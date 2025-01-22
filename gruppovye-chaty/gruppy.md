@@ -3,9 +3,9 @@
 Мы интегрировали групповые чаты WhatsApp в Битрикс24. Все групповые чаты отображаются в Чатах, а не в Открытых линиях.
 
 {% hint style="info" %}
-Групповые чаты [оплачиваются отдельно](https://docs.olchat.io/stoimost-i-oplata-prilozheniya#stoimost-podklyucheniya-grupp-whatsapp).
+Сейчас доступно 50 бесплатных групповых чатов. Групповые чаты работают только при активном коннекторе (аккаунте WhatsApp).
 
-Групповые чаты работают только при активном коннекторе (аккаунте WhatsApp).
+Подключение свыше 50 групповых чатов [оплачивается отдельно](https://docs.olchat.io/stoimost-i-oplata-prilozheniya#stoimost-podklyucheniya-grupp-whatsapp).
 {% endhint %}
 
 {% hint style="warning" %}
