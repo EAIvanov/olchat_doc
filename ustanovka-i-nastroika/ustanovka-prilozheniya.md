@@ -16,6 +16,5 @@
 [https://www.bitrix24.ru/apps/app/infocom.olchat/?p=132277](https://www.bitrix24.ru/apps/app/infocom.olchat/?p=132277)
 {% endhint %}
 
-После установки приложение OLChat появится в меню слева
+После установки приложение OLChat появится в меню слева.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
