@@ -2,7 +2,7 @@
 
 Настроим основные параметры открытой линии к которой подключен коннектор. Для этого прейдите в приложение «OLChat в левом меню портала и напротив нужного коннектора нажмите на значок меню «•••». Выберите пункт «Настройки линии»:
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Раздел Очередь
 
