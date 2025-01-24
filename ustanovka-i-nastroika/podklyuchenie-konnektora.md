@@ -8,7 +8,7 @@
 
 Для начала, необходимо создать или подключить открытую линию. Для этого в открывшемся окне в разделе меню «Подключить интеграцию» выберите пункт «WhatsApp»:
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Если у вас несколько открытых линий, из выпадающего списка выберите Открытую линию к которой собираетесь подключить коннектор, нажав на кнопку «ПОДКЛЮЧИТЬ». Если линий для подключения нет, вы можете создать новую, нажав на ссылку «СОЗДАТЬ НОВУЮ ЛИНИЮ»
@@ -39,11 +39,11 @@
 
 В открывшемся окне нажмите на кнопку «Загрузить QR-код» и следуйте инструкции на экране:
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Либо можно перейти к сканированию QR-кода до перехода в Настройки коннектора.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Затем необходимо Привязать устройство с помощью приложения WhatsApp в телефоне.
 
@@ -74,7 +74,7 @@
 {% endhint %}
 
 {% hint style="info" %}
-С подробной инструкцией по регистрации в приложении WhatsApp Business вы можете ознакомиться в статье [Как зарегистрироваться в приложении WhatsApp Business](https://faq.whatsapp.com/2624958974263418/?locale=ru\_RU)
+С подробной инструкцией по регистрации в приложении WhatsApp Business вы можете ознакомиться в статье [Как зарегистрироваться в приложении WhatsApp Business](https://faq.whatsapp.com/2624958974263418/?locale=ru_RU)
 {% endhint %}
 
 {% hint style="warning" %}
