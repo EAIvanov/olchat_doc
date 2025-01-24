@@ -2,7 +2,7 @@
 
 Для перехода к настройкам коннектора, в левом меню портала выберите приложение «OLChat»:
 
-<figure><img src="../../.gitbook/assets/image (1108).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 В открывшемся окне приложения выберите пункт меню «Настройки приложения»:
 
