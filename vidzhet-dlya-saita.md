@@ -54,7 +54,7 @@
 
 <figure><img src=".gitbook/assets/image (502).png" alt=""><figcaption></figcaption></figure>
 
-## Как установить виджет на сайт <a href="#install" id="install"></a>
+### Как установить виджет на сайт <a href="#install" id="install"></a>
 
 Вы можете установить виджет на любой сайт: как созданный в Битрикс24, так и на другой CMS.
 
