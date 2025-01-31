@@ -1,7 +1,7 @@
 # Передача параметров аналитики без использования виджета
 
 {% hint style="info" %}
-Для того, чтобы параметры аналитики были верно отработаны, вам необходимо в Настройках коннектора приложения OLChat настроить [Бот-помощник](https://docs.olchat.io/bot-pomoshnik), а также [Виджет на сайт](https://docs.olchat.io/vidzhet-dlya-saita).
+Для того, чтобы параметры аналитики были верно отработаны, вам необходимо в [Настройках коннектора](https://docs.olchat.io/ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-nastroek-konnektora) приложения OLChat настроить [Бот-помощник](https://docs.olchat.io/bot-pomoshnik), а также [Виджет на сайт](https://docs.olchat.io/vidzhet-dlya-saita).
 {% endhint %}
 
 ### Настройка кнопки WhatsApp
