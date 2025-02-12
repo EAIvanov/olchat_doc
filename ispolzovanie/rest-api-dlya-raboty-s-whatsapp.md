@@ -61,6 +61,7 @@
 | phone\_number<mark style="color:red;">\*</mark>  | str  | Номер телефона                                               |
 | body<mark style="color:red;">\*</mark>           | url  | Прямая ссылка на файл                                        |
 | send\_to\_imol<mark style="color:red;">\*</mark> | Y\|N | Отправка в чат Открытой Линии. Может принимать значение Y\|N |
+| caption                                          | str  | Текст подписи под картинкой                                  |
 
 {% tabs %}
 {% tab title="200: OK " %}
