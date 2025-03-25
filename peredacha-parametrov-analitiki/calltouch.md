@@ -23,7 +23,7 @@
 1. Зайдите в настройки коннектора
 2. В разделе «Настройка виджета на сайт» добавьте параметр **{visit\_id}** в текст приветственного сообщения
 
-<figure><img src="../.gitbook/assets/image (1034).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1194).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Обратите внимание, что если клиент удалит параметр **{visit\_id}** из первого отправляемого сообщения, данные аналитики вы получить не сможете!
