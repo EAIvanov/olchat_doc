@@ -16,19 +16,19 @@
 
 Создадим пользовательское поле типа «Строка» в карточке сущности:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Задайте название полю «ID Группы» и нажмите на кнопку «СОХРАНИТЬ»:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Далее, необходимо получить ID группы и сохранить его в созданном пользовательском поле. Для получения ID группы необходимо перейти в приложение «OLChat» в левом меню портала и в открывшемся приложении выбрать пункт меню «Настройки групп»:
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 В списке подключенных групп выберите группу, для которой необходимо получить ID группы и нажмите на набор цифр напротив ID группы. ID группы будет скопирован в буфер обмена и вы получите соответствующее уведомление:
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Вернитесь в сущность, в которой создавали пользовательское поле «ID Группы», заполните его скопированным значением и нажмите на кнопку «СОХРАНИТЬ»:
 

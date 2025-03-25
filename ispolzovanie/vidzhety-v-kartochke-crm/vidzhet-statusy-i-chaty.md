@@ -70,17 +70,19 @@
 
 ### Показывать имя сотрудника
 
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 Настройка позволяет скрывать или отображать имя сотрудника, от которого было отправлено сообщение. По умолчанию данная функция выключена. Если чек-бокс «Показывать имя сотрудника» активирован, то в сообщение, отправленное через виджет, добавится заголовок с именем сотрудника.
 
 <figure><img src="../../.gitbook/assets/image (1192).png" alt=""><figcaption></figcaption></figure>
 
 ### Создавать Дело в таймлайне
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Если чек-бокс «Создавать Дело в таймлайне» активирован, то в таймлайне карточки после отправки сообщения создастся дело с информацией и содержанием сообщения:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### История чата с клиентом
 
