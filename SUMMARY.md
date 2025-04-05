@@ -60,6 +60,7 @@
   * [Roistat](peredacha-parametrov-analitiki/roistat.md)
   * [Calltouch](peredacha-parametrov-analitiki/calltouch.md)
   * [Передача параметров аналитики без использования виджета](peredacha-parametrov-analitiki/peredacha-parametrov-analitiki-bez-ispolzovaniya-vidzheta.md)
+  * [OlchatVisitorId: автоматическая подстановка ID посетителя в ссылки мессенджеров](peredacha-parametrov-analitiki/olchatvisitorid-avtomaticheskaya-podstanovka-id-posetitelya-v-ssylki-messendzherov.md)
 * [Шорткоды](shortkody.md)
 
 ## Роботы и активити
