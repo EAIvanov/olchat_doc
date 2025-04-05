@@ -25,7 +25,7 @@
 * [Аккаунты и авторизация](ustanovka-i-nastroika/akkaunty-i-avtorizaciya/README.md)
   * [Авторизация устройства](ustanovka-i-nastroika/akkaunty-i-avtorizaciya/avtorizaciya-ustroistva.md)
   * [Добавление дополнительных аккаунтов WhatsApp](ustanovka-i-nastroika/akkaunty-i-avtorizaciya/dobavlenie-dopolnitelnykh-akkauntov-whatsapp.md)
-  * [Подключение WhatsApp на другой номер телефона](ustanovka-i-nastroika/akkaunty-i-avtorizaciya/dobavlenie-dopolnitelnykh-akkauntov-whatsapp-1.md)
+  * [Подключение WhatsApp на другой номер телефона](ustanovka-i-nastroika/akkaunty-i-avtorizaciya/podklyuchenie-whatsapp-na-drugoi-nomer-telefona.md)
   * [Как подключить виртуальный номер?](ustanovka-i-nastroika/akkaunty-i-avtorizaciya/kak-podklyuchit-virtualnyi-nomer.md)
 * [Дополнительные настройки для коробочной версии Битрикс24](ustanovka-i-nastroika/dopolnitelnye-nastroiki-dlya-korobochnoi-versii-bitriks24.md)
 * [Переустановка приложения](ustanovka-i-nastroika/pereustanovka-prilozheniya.md)
