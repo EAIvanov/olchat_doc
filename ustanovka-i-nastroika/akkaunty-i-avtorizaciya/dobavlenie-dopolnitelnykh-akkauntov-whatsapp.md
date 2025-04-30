@@ -26,14 +26,18 @@
 
 После подключения открытой линии можно перейти к подключению коннектора. Для этого напротив подключаемого коннектора нажмите на значок меню «•••» и выберите пункт «Настройки коннектора»
 
-<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1209).png" alt=""><figcaption></figcaption></figure>
+
+Также, к сканированию QR-кода можно перейти из списка аккаунтов не заходя в Настройки коннектора, нажав на иконку «Отсканировать QR-код» напротив подключаемого коннектора:
+
+<figure><img src="../../.gitbook/assets/image (1208).png" alt=""><figcaption></figcaption></figure>
 
 В открывшемся окне нажмите на кнопку «Загрузить QR-код» и следуйте инструкции на экране:
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1212).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Подробнее о подключении коннектора и предварительных настройках телефона вы можете узнать из статьи [Broken link](broken-reference "mention") либо посмотреть видеоинструкцию в статье [podklyuchenie-konnektora.md](../podklyuchenie-konnektora.md "mention")
+Подробнее о подключении коннектора и предварительных настройках телефона вы можете узнать из статьи [podklyuchenie-konnektora.md](../podklyuchenie-konnektora.md "mention")
 
-Информацию и видеоинструкцию по настройке Открытой линии вы можете найти в статье [nastroika-otkrytoi-linii.md](../nastroika-otkrytoi-linii.md "mention").
+Информацию по настройке Открытой линии вы можете найти в статье [nastroika-otkrytoi-linii.md](../nastroika-otkrytoi-linii.md "mention").
 {% endhint %}
