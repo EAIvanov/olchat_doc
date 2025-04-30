@@ -6,11 +6,11 @@
 
 В открывшемся окне приложения выберите нужный коннектор, нажмите на значок меню «•••» и выберите пункт «Настройки коннектора»:
 
-<figure><img src="../../.gitbook/assets/image (1107).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1205).png" alt=""><figcaption></figcaption></figure>
 
 Окно настроек коннектора содержит в себе несколько разделов меню и кнопок для управления сценариями работы подключенного аккаунта WhatsApp (коннектора).
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1198).png" alt=""><figcaption></figcaption></figure>
 
 ### **Наименование коннектора**
 
@@ -18,13 +18,21 @@
 
 ### **Статус подключения**
 
-Если коннектор не подключен, вы увидите QR-код, которой необходимо отсканировать из приложения WhatsApp на смартфоне. Подробнее в статье [#podklyuchenie-konnektora](../podklyuchenie-konnektora.md#podklyuchenie-konnektora "mention") Если подключение выполнено, то на экране отобразится статус подключения «Подключен», с указанием даты, до которой будет активно подключение.
+Если коннектор не подключен, вы увидите QR-код, которой необходимо отсканировать из приложения WhatsApp на смартфоне. Подробнее в статье [#podklyuchenie-konnektora](../podklyuchenie-konnektora.md#podklyuchenie-konnektora "mention")&#x20;
+
+<figure><img src="../../.gitbook/assets/image (1197).png" alt=""><figcaption></figcaption></figure>
+
+Если к коннектору ранее уже был подключен номер, он отобразится под статусом подключения
+
+Если подключение выполнено, то на экране отобразится статус подключения «Подключен», с указанием даты, до которой будет активно подключение а так же номер, который подключен в настоящий момент.
+
+<figure><img src="../../.gitbook/assets/image (1195).png" alt=""><figcaption></figcaption></figure>
 
 ### Чаты
 
 Раздел отвечает за настройку логики работы приложения при отправке сообщений из чатов Битрикс24. Вы можете отметить или деактивировать нужные пункты в зависимости от потребностей и сценариев вашей работы.
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1199).png" alt=""><figcaption></figcaption></figure>
 
 #### Чат
 
@@ -49,31 +57,31 @@
 
 Раздел управляет настройкой создания дела при пропущенных звонках, а так же позволяет совершать автоматическую отправку ответа клиенту при пропущенном звонке или голосовом сообщении. Подробнее в статье [avtootvetchik.md](../../avtootvetchik.md "mention")
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1200).png" alt=""><figcaption></figcaption></figure>
 
 ### Бот-помощник
 
 Подробнее в статье [bot-pomoshnik.md](../../bot-pomoshnik.md "mention")
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1201).png" alt=""><figcaption></figcaption></figure>
 
 ### **Виджет на сайт**
 
 Подробнее в статье [vidzhet-dlya-saita.md](../../vidzhet-dlya-saita.md "mention")
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1202).png" alt=""><figcaption></figcaption></figure>
 
 ### **Доступ к коннектору**
 
 Подробнее  о настройке прав в статье [#prava-na-konnektor-linii](../nastroika-prav-dlya-raboty-s-prilozheniem-olchat.md#prava-na-konnektor-linii "mention")
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1203).png" alt=""><figcaption></figcaption></figure>
 
 ### Вебхук
 
 В данном разделе настроек можно создать Вебхук для работы с WhatsApp через REST API. Подробнее в статье [rest-api-dlya-raboty-s-whatsapp.md](../../ispolzovanie/rest-api-dlya-raboty-s-whatsapp.md "mention")
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1204).png" alt=""><figcaption></figcaption></figure>
 
 ### Отключить аккаунт
 
