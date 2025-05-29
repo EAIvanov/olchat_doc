@@ -58,6 +58,12 @@
 
 <figure><img src="../../.gitbook/assets/image (1152).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+Список шаблонов по умолчанию отсортирован в алфавитном порядке по возрастанию (А-Я).&#x20;
+
+Первыми из выпадающего списка являются 5 недавно использовавшихся шаблонов.
+{% endhint %}
+
 * Записать голосовое сообщение
 
 <figure><img src="../../.gitbook/assets/image (1158).png" alt=""><figcaption></figcaption></figure>
