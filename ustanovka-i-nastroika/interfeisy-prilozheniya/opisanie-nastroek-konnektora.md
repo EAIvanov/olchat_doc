@@ -32,7 +32,7 @@
 
 Раздел отвечает за настройку логики работы приложения при отправке сообщений из чатов Битрикс24. Вы можете отметить или деактивировать нужные пункты в зависимости от потребностей и сценариев вашей работы.
 
-<figure><img src="../../.gitbook/assets/Скриншот 08.06.25_15.40.09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Скриншот 08.06.25_15.51.27.png" alt=""><figcaption></figcaption></figure>
 
 #### Чат
 
@@ -57,7 +57,7 @@
 
 Раздел управляет настройкой создания дела при пропущенных звонках, а так же позволяет совершать автоматическую отправку ответа клиенту при пропущенном звонке или голосовом сообщении. Подробнее в статье [avtootvetchik.md](../../avtootvetchik.md "mention")
 
-<figure><img src="../../.gitbook/assets/Скриншот 08.06.25_15.41.36.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Скриншот 08.06.25_15.52.33.png" alt=""><figcaption></figcaption></figure>
 
 ### Бот-помощник
 
@@ -69,7 +69,7 @@
 
 Подробнее в статье [vidzhet-dlya-saita.md](../../vidzhet-dlya-saita.md "mention")
 
-<figure><img src="../../.gitbook/assets/Скриншот 08.06.25_15.43.24.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Скриншот 08.06.25_15.53.59.png" alt=""><figcaption></figcaption></figure>
 
 ### **Доступ к коннектору**
 
@@ -81,7 +81,7 @@
 
 В данном разделе настроек можно создать Вебхук для работы с WhatsApp через REST API. Подробнее в статье [rest-api-dlya-raboty-s-whatsapp.md](../../ispolzovanie/rest-api-dlya-raboty-s-whatsapp.md "mention")
 
-<figure><img src="../../.gitbook/assets/Скриншот 08.06.25_15.45.59.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Скриншот 08.06.25_15.54.54.png" alt=""><figcaption></figcaption></figure>
 
 ### Отключить аккаунт
 
