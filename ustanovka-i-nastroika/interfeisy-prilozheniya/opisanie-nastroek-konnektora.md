@@ -6,7 +6,7 @@
 
 В открывшемся окне приложения выберите нужный коннектор, нажмите на значок меню «•••» и выберите пункт «Настройки коннектора»:
 
-<figure><img src="../../.gitbook/assets/image (1205).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Скриншот 08.06.25_15.27.11.png" alt=""><figcaption></figcaption></figure>
 
 Окно настроек коннектора содержит в себе несколько разделов меню и кнопок для управления сценариями работы подключенного аккаунта WhatsApp (коннектора).
 
@@ -26,13 +26,13 @@
 
 Если подключение выполнено, то на экране отобразится статус подключения «Подключен», с указанием даты, до которой будет активно подключение а так же номер, который подключен в настоящий момент.
 
-<figure><img src="../../.gitbook/assets/image (1195).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Скриншот 08.06.25_15.38.18.png" alt=""><figcaption></figcaption></figure>
 
 ### Чаты
 
 Раздел отвечает за настройку логики работы приложения при отправке сообщений из чатов Битрикс24. Вы можете отметить или деактивировать нужные пункты в зависимости от потребностей и сценариев вашей работы.
 
-<figure><img src="../../.gitbook/assets/image (1199).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Скриншот 08.06.25_15.40.09.png" alt=""><figcaption></figcaption></figure>
 
 #### Чат
 
@@ -57,31 +57,31 @@
 
 Раздел управляет настройкой создания дела при пропущенных звонках, а так же позволяет совершать автоматическую отправку ответа клиенту при пропущенном звонке или голосовом сообщении. Подробнее в статье [avtootvetchik.md](../../avtootvetchik.md "mention")
 
-<figure><img src="../../.gitbook/assets/image (1200).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Скриншот 08.06.25_15.41.36.png" alt=""><figcaption></figcaption></figure>
 
 ### Бот-помощник
 
 Подробнее в статье [bot-pomoshnik.md](../../bot-pomoshnik.md "mention")
 
-<figure><img src="../../.gitbook/assets/image (1201).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Скриншот 08.06.25_15.42.29.png" alt=""><figcaption></figcaption></figure>
 
 ### **Виджет на сайт**
 
 Подробнее в статье [vidzhet-dlya-saita.md](../../vidzhet-dlya-saita.md "mention")
 
-<figure><img src="../../.gitbook/assets/image (1202).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Скриншот 08.06.25_15.43.24.png" alt=""><figcaption></figcaption></figure>
 
 ### **Доступ к коннектору**
 
 Подробнее  о настройке прав в статье [#prava-na-konnektor-linii](../nastroika-prav-dlya-raboty-s-prilozheniem-olchat.md#prava-na-konnektor-linii "mention")
 
-<figure><img src="../../.gitbook/assets/image (1203).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Скриншот 08.06.25_15.44.27.png" alt=""><figcaption></figcaption></figure>
 
 ### Вебхук
 
 В данном разделе настроек можно создать Вебхук для работы с WhatsApp через REST API. Подробнее в статье [rest-api-dlya-raboty-s-whatsapp.md](../../ispolzovanie/rest-api-dlya-raboty-s-whatsapp.md "mention")
 
-<figure><img src="../../.gitbook/assets/image (1204).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Скриншот 08.06.25_15.45.59.png" alt=""><figcaption></figcaption></figure>
 
 ### Отключить аккаунт
 
