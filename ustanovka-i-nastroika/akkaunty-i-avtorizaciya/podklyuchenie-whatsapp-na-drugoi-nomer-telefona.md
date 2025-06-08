@@ -2,11 +2,11 @@
 
 Если вы хотите подключить WhatsApp на другой номер телефона не увеличивая при этом количество коннекторов и стоимость оплаты, необходимо отключить текущий аккаунт WhatsApp и вместо него подключить новый. Для этого перейдите в настройки приложения OLChat (в меню слева) и нажав на значок «**•••**» вызовите **меню настроек коннектора**, для которого необходимо произвести замену номера телефона WhatsApp:
 
-<figure><img src="../../.gitbook/assets/image (1213).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Скриншот 08.06.25_16.08.10.png" alt=""><figcaption></figcaption></figure>
 
 В открывшемся окне в меню слева выберите пункт «Отключить аккаунт» и подтвердите отключение:
 
-<figure><img src="../../.gitbook/assets/image (1214).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Скриншот 08.06.25_16.09.20.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
