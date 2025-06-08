@@ -35,11 +35,11 @@
 
 После подключения открытой линии можно перейти к подключению коннектора. Для этого напротив подключаемого коннектора нажмите на значок меню «•••» и выберите пункт «Настройки коннектора»
 
-<figure><img src="../.gitbook/assets/image (1209).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Скриншот 08.06.25_15.27.11.png" alt=""><figcaption></figcaption></figure>
 
 Также, к сканированию QR-кода можно перейти из списка аккаунтов не заходя в Настройки коннектора, нажав на иконку «Отсканировать QR-код» напротив подключаемого коннектора:
 
-<figure><img src="../.gitbook/assets/image (1208).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Скриншот 08.06.25_15.29.15.png" alt=""><figcaption></figcaption></figure>
 
 В открывшемся окне нажмите на кнопку «Загрузить QR-код» и следуйте инструкции на экране:
 
@@ -67,7 +67,7 @@
 
 <figure><img src="../.gitbook/assets/image (1210).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1211).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Скриншот 08.06.25_15.30.16.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Перейти в настройки коннектора можно также до сканирования QR-кода. Для этого необходимо нажать на иконку «Настройка коннектора»
