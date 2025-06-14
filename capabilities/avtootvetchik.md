@@ -2,7 +2,7 @@
 
 Для всех голосовых сообщений и пропущенных звонков от клиента через WhatsApp, можно настроить автоматическую отправку ответа. Для этого в левом меню портала войдите в приложение **OLChat — значок «•••» (меню вызова настроек коннектора) — Автоответчики.** Введите текст, который необходимо отправить клиенту при пропущенном звонке или голосовом сообщении. Нажмите на кнопку «Сохранить».
 
-<figure><img src=".gitbook/assets/image (1206).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1206).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Для уникализации отправляемых сообщений, вы можете использовать рандомизатор, и в качестве текста для отправки вставить конструкцию, вида: **«{Мы|Сотрудники} {получили|приняли} {ваш звонок|ваше обращение}! Пожалуйста, ожидайте ответа»**
@@ -14,12 +14,12 @@
 
 Также при пропущенных звонках от клиента через WhatsApp, существует возможность создавать дело на сущности в CRM. Если вы хотите, чтобы дело создавалось, необходимо отметить галочку напротив пункта **«Создавать дело о пропущенном звонке»**, либо снять галочку, если создавать дело нет необходимости.
 
-<figure><img src=".gitbook/assets/image (1028).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1028).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1102).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1102).png" alt=""><figcaption></figcaption></figure>
 
 Кроме того, пропущенные, сброшенные и отвеченные звонки и видео-звонки, фиксируются в чате Открытой линии:&#x20;
 
-<figure><img src=".gitbook/assets/image (1030).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1030).png" alt=""><figcaption></figcaption></figure>
 
 Исходящие пока не фиксируются. Техотдел ищет решение.

@@ -6,7 +6,7 @@
 
 Также вы можете скопировать ссылку на чат в WhatsApp, нажав на иконку «Скопировать ссылку» в разделе «Ссылка на чат в WhatsApp»:
 
-<figure><img src=".gitbook/assets/image (1026).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1026).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Если вы настраиваете передачу параметров аналитики, то в тексте приветствия не должно быть переносов сроки. В ином случае [бот-помощник](https://docs.olchat.io/bot-pomoshnik) не сможет распознать параметр аналитики и записать в поле CRM.&#x20;
@@ -20,27 +20,27 @@
 Также, это поле можно оставлять пустым. Но для анализа маркетинговых каналов рекомендуем написать какой-то текст, с помощью которого вы в последствии сможете идентифицировать канал.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (511).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (511).png" alt=""><figcaption></figcaption></figure>
 
 Далее перейдите в **Контакт-центр — Виджет на сайт**.
 
-<figure><img src=".gitbook/assets/image_2024-11-29_14_04_02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image_2024-11-29_14_04_02.png" alt=""><figcaption></figcaption></figure>
 
 Включите канал в настройках виджета:
 
-![](<.gitbook/assets/image (766).png>)
+![](<../.gitbook/assets/image (766).png>)
 
-![](<.gitbook/assets/image (845).png>)
+![](<../.gitbook/assets/image (845).png>)
 
 Если у вас уже существует и настроена линия с каким-то набором подключенным каналов, вы можете подключить к ней канал из другой линии. Это может пригодиться в случае, если для приложения OLChat вы использовали отдельную открытую линию со своим сценарием обработки и распределения входящих сообщений от клиентов.
 
 Для добавления канала WhatsApp из открытой линии подключенной к приложению OLChat, в настройках виджета нажмите ссылку «добавить открытую линию».
 
-![](<.gitbook/assets/image (550).png>)
+![](<../.gitbook/assets/image (550).png>)
 
 Выберите нужную открытую линию. Включите канал в настройках виджета.
 
-![](<.gitbook/assets/image (146).png>)
+![](<../.gitbook/assets/image (146).png>)
 
 {% hint style="info" %}
 После установки виджет может появиться на сайте не сразу, т.к. он кэшируется на стороне Битрикс24. Чаще всего такое случается на коробочных версиях Битрикс24. Обновляться виджет может в течение 15-60 минут.
@@ -50,15 +50,15 @@
 
 Для выключения и включения виджета перейдите в раздел **CRM – Интеграции – Виджет на сайт**.
 
-<figure><img src=".gitbook/assets/image (590).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (590).png" alt=""><figcaption></figcaption></figure>
 
 С помощью кнопки Код на сайт вы можете скопировать код виджета, а кнопка Выключить позволяет управлять активностью виджета. Например, если вы хотите временно скрыть виджет от посетителей сайта, можете его отключить.&#x20;
 
 Чтобы включить виджет, найдите нужный виджет и напротив него нажмите на кнопку «ВЫКЛЮЧИТЬ» а затем «ВКЛЮЧИТЬ».
 
-<figure><img src=".gitbook/assets/image (340).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (340).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (502).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (502).png" alt=""><figcaption></figcaption></figure>
 
 ### Как установить виджет на сайт <a href="#install" id="install"></a>
 
@@ -66,7 +66,7 @@
 
 Если вы хотите установить виджет на сайт, созданный в Битрикс24, то в настройках сайта выберите нужный виджет.
 
-<figure><img src=".gitbook/assets/image (1185).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1185).png" alt=""><figcaption></figcaption></figure>
 
 Чтобы установить виджет на любой другой сайт, необходимо скопировать код виджета и поместить его в код шаблона вашего сайта перед закрывающим тегом **`/body`**. Код вы можете скопировать из настроек виджета.
 

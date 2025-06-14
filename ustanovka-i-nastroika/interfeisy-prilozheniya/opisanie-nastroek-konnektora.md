@@ -55,7 +55,7 @@
 
 ### Автоответчики
 
-Раздел управляет настройкой создания дела при пропущенных звонках, а так же позволяет совершать автоматическую отправку ответа клиенту при пропущенном звонке или голосовом сообщении. Подробнее в статье [avtootvetchik.md](../../avtootvetchik.md "mention")
+Раздел управляет настройкой создания дела при пропущенных звонках, а так же позволяет совершать автоматическую отправку ответа клиенту при пропущенном звонке или голосовом сообщении. Подробнее в статье [avtootvetchik.md](../../capabilities/avtootvetchik.md "mention")
 
 <figure><img src="../../.gitbook/assets/Скриншот 08.06.25_15.52.33.png" alt=""><figcaption></figcaption></figure>
 
@@ -67,7 +67,7 @@
 
 ### **Виджет на сайт**
 
-Подробнее в статье [vidzhet-dlya-saita.md](../../vidzhet-dlya-saita.md "mention")
+Подробнее в статье [vidzhet-dlya-saita.md](../../capabilities/vidzhet-dlya-saita.md "mention")
 
 <figure><img src="../../.gitbook/assets/Скриншот 08.06.25_15.53.59.png" alt=""><figcaption></figcaption></figure>
 

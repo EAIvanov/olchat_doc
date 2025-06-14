@@ -33,8 +33,8 @@
 
 ## 17.05.2024
 
-1. Работать с шаблонами сообщений стало еще удобнее! Теперь вы можете отправлять шаблоны напрямую из Открытых линий, что делает быстрые ответы в чатах доступными на всех тарифах Битрикс24 [#otpravka-shablonnogo-soobsheniya-iz-chata-otkrytoi-linii](shablony-soobshenii.md#otpravka-shablonnogo-soobsheniya-iz-chata-otkrytoi-linii "mention")
-2. Появились новые настройки шаблонов. Вы можете задавать параметры в шаблонах, переменные из сущностей CRM будут подставляться автоматически. Можно сортировать шаблоны по категориям и гибко настраивать права доступа для сотрудников [shablony-soobshenii.md](shablony-soobshenii.md "mention")
+1. Работать с шаблонами сообщений стало еще удобнее! Теперь вы можете отправлять шаблоны напрямую из Открытых линий, что делает быстрые ответы в чатах доступными на всех тарифах Битрикс24 [#otpravka-shablonnogo-soobsheniya-iz-chata-otkrytoi-linii](capabilities/shablony-soobshenii.md#otpravka-shablonnogo-soobsheniya-iz-chata-otkrytoi-linii "mention")
+2. Появились новые настройки шаблонов. Вы можете задавать параметры в шаблонах, переменные из сущностей CRM будут подставляться автоматически. Можно сортировать шаблоны по категориям и гибко настраивать права доступа для сотрудников [shablony-soobshenii.md](capabilities/shablony-soobshenii.md "mention")
 3. В карточках CRM дела «Чат» и «Пропущенный звонок WhatsApp» отображаются в новом виде, содержат больше данных и добавлены в мобильное приложение Битрикс24. Появилась возможность из дела открыть чат [kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md](ispolzovanie/poluchenie-i-otpravka-soobshenii/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md "mention")&#x20;
 4. Добавлена новая настройка в роботе [otpravka-soobsheniya.md](roboty-i-aktiviti/roboty/otpravka-soobsheniya.md "mention") – «Выбор очереди отправки». Эта опция позволяет направлять сообщения от роботов в специальную очередь, для которой устанавливается отдельный интервал между отправками сообщений. Это снижает риск блокировки и не задерживает остальные сообщения [#intervaly-otpravki-soobshenii](ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-nastroek-konnektora.md#intervaly-otpravki-soobshenii "mention")
 5. Добавлены новые роботы [sozdanie-gruppy.md](gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/sozdanie-gruppy.md "mention") WhatsApp и [poluchenie-ssylki-na-gruppu.md](gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/poluchenie-ssylki-na-gruppu.md "mention"). Теперь вы можете на нужной стадии лида/сделки настроить автоматическое создание групповых чатов, получение и отправку ссылки на группы клиентам
@@ -44,7 +44,7 @@
 1. Современный, удобный, интуитивно понятный — новый интерфейс приложения OLChat WhatsApp [opisanie-paneli-prilozheniya.md](ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-paneli-prilozheniya.md "mention")
 2. Обновлённый интерфейс настроек коннектора для быстрого подключения, легкого и понятного процесса настроек [opisanie-nastroek-konnektora.md](ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-nastroek-konnektora.md "mention")
 3. Автоматическое преобразование голосовых сообщений в текст теперь длительностью до 5 минут. Кроме того, мы добавили отображение эмоциональной окраски и краткое содержание голосового сообщения, чтобы ваши менеджеры экономили время и лучше понимали клиента [#rasshifrovka-golosovykh-soobshenii](ispolzovanie/poluchenie-i-otpravka-soobshenii/#rasshifrovka-golosovykh-soobshenii "mention")
-4. Звонки в WhatsApp под контролем! Фиксирование входящих звонков в WhatsApp с определением типа - пропущенный, отвеченный и сброшенный [avtootvetchik.md](avtootvetchik.md "mention")
+4. Звонки в WhatsApp под контролем! Фиксирование входящих звонков в WhatsApp с определением типа - пропущенный, отвеченный и сброшенный [avtootvetchik.md](capabilities/avtootvetchik.md "mention")
 5. Теперь вы можете управлять отдельными интервалами для отправки всех сообщений и для отправки сообщений через функционал Маркетинга. Это позволяет снизить риск блокировки и не требует изменения настроек во время рассылки через Маркетинг [#intervaly-otpravki-soobshenii](ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-nastroek-konnektora.md#intervaly-otpravki-soobshenii "mention")
 6. При создании чата из нашего приложения в карточке CRM, чат сразу распределяется на его создателя, а не в общую очередь Открытой линии или на ответственного сотрудника [kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md](ispolzovanie/poluchenie-i-otpravka-soobshenii/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md "mention")
 7. В настройках приложения добавили возможность выбора постоянно отображать наш виджет в карточках CRM. Но мы не рекомендуем включать эту настройку! Помните, что вы это делаете на свой страх и риск, это сильно увеличивает риск блокировки номера [#vozmozhnosti](ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-nastroek-prilozheniya.md#vozmozhnosti "mention")
@@ -141,8 +141,8 @@
 * Шорткоды. [Подробнее](shortkody.md)
 * Бот-помощник. [Подробнее](bot-pomoshnik.md)
 * Добавление приложения в карточку CRM «Заказы». [Подробнее](ispolzovanie/poluchenie-i-otpravka-soobshenii/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md)
-* Автоответчик. Сообщение клиенту при пропущенном звонке. [Подробнее](avtootvetchik.md)
-* Автоответчик. Сообщение клиенту при голосовом сообщении. [Подробнее](avtootvetchik.md)
+* Автоответчик. Сообщение клиенту при пропущенном звонке. [Подробнее](capabilities/avtootvetchik.md)
+* Автоответчик. Сообщение клиенту при голосовом сообщении. [Подробнее](capabilities/avtootvetchik.md)
 
 ### Новые настройки
 
