@@ -61,8 +61,6 @@
   * [Передача параметров аналитики без использования виджета](capabilities/peredacha-parametrov-analitiki/peredacha-parametrov-analitiki-bez-ispolzovaniya-vidzheta.md)
 * [Шорткоды](capabilities/shortkody.md)
 
-## ВОЗМОЖНОСТИ
-
 ## Роботы и активити
 
 * [Роботы и активити (действия) бизнес-процессов](roboty-i-aktiviti/roboty/README.md)
