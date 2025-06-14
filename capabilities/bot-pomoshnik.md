@@ -6,13 +6,13 @@
 * Изменение заголовков чатов по шаблону
 * Привязка аналитики в поле CRM
 * Установка бота, которому передаётся управление после бота OLChat
-* [upravlenie-sostavom-uchastnikov-grupp-s-pomoshyu-komand-v-chate.md](gruppovye-chaty/upravlenie-sostavom-uchastnikov-grupp-s-pomoshyu-komand-v-chate.md "mention")
+* [upravlenie-sostavom-uchastnikov-grupp-s-pomoshyu-komand-v-chate.md](../gruppovye-chaty/upravlenie-sostavom-uchastnikov-grupp-s-pomoshyu-komand-v-chate.md "mention")
 
 ### Установка бота
 
 Для включения и настройки бота-помощника в левом меню портала войдите в приложение **OLChat  — значок «•••» (меню вызова настроек коннектора) — Бот-помощник.** Нажмите на кнопку «Установить».
 
-<figure><img src=".gitbook/assets/image (1207).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1207).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Если отключено создание сущностей и контакта такого в CRM-системе ещё нет, то номер  в заголовке чата отображаться не будет даже при установленном боте-помощнике.
@@ -45,7 +45,7 @@
 
 Также, для корректной работы чат-бота, рекомендуем перейти в открытую линию, которая подключена к данному коннектору и в разделе Чат-боты установить следующие оптимальные настройки, как показано на скриншоте ниже:
 
-<figure><img src=".gitbook/assets/image (390).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (390).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Если вы не хотели бы видеть уведомление в чате "OLChat покинул чат", то в поле "Когда отключать чат-бота" должно быть настроено "После завершения диалога".
@@ -53,4 +53,4 @@
 
 Чтобы выключить бота OLChat необходимо перейти в настройки открытой линии, которая подключена к данному коннектору и в разделе Чат-боты снять галочку «При обращении клиента назначить ответственным чат-бота». Сохраните настройку. Бот OLChat будет отключен.
 
-![](<.gitbook/assets/image (124).png>)
+![](<../.gitbook/assets/image (124).png>)

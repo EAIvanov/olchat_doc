@@ -10,7 +10,7 @@
 
 Внешний вид кнопки может быть, например, таким:
 
-<figure><img src="../.gitbook/assets/image (1112).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1112).png" alt=""><figcaption></figcaption></figure>
 
 В приветственном сообщении укажите параметр **{visit\_id}**, например, в таком виде: _Обязательно отправьте это сообщение и дождитесь ответа! Ваш номер:_ **{visit\_id}**
 
@@ -112,4 +112,4 @@
 
 После перехода по кнопке скрипт отработает и подставит в параметр {visit\_id} код сервиса аналитики:
 
-<figure><img src="../.gitbook/assets/image (1116).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1116).png" alt=""><figcaption></figcaption></figure>

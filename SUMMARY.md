@@ -48,21 +48,18 @@
 * [Виджет для сайта](capabilities/vidzhet-dlya-saita.md)
 * [Шаблоны сообщений](capabilities/shablony-soobshenii.md)
 * [Автоответчик](capabilities/avtootvetchik.md)
-
-***
-
-* [Бот-помощник](bot-pomoshnik.md)
-* [Рассылка сообщений](rassylka-soobshenii/README.md)
-  * [Страница просмотра статусов рассылок CRM-маркетинга](rassylka-soobshenii/stranica-prosmotra-statusov-rassylok-crm-marketinga.md)
-  * [Как для рассылки загрузить контакты с Excel?](rassylka-soobshenii/kak-dlya-rassylki-zagruzit-kontakty-s-excel.md)
-* [Рандомизатор сообщений](randomizator.md)
-* [Передача параметров аналитики](peredacha-parametrov-analitiki/README.md)
-  * [OLChat Link Modifier — автоматическая подстановка ID посетителя в ссылки мессенджеров](peredacha-parametrov-analitiki/olchat-link-modifier-avtomaticheskaya-podstanovka-id-posetitelya-v-ssylki-messendzherov.md)
-  * [Яндекс.Метрика ClientID](peredacha-parametrov-analitiki/yandeks.metrika-clientid.md)
-  * [Roistat](peredacha-parametrov-analitiki/roistat.md)
-  * [Calltouch](peredacha-parametrov-analitiki/calltouch.md)
-  * [Передача параметров аналитики без использования виджета](peredacha-parametrov-analitiki/peredacha-parametrov-analitiki-bez-ispolzovaniya-vidzheta.md)
-* [Шорткоды](shortkody.md)
+* [Бот-помощник](capabilities/bot-pomoshnik.md)
+* [Рассылка сообщений](capabilities/rassylka-soobshenii/README.md)
+  * [Страница просмотра статусов рассылок CRM-маркетинга](capabilities/rassylka-soobshenii/stranica-prosmotra-statusov-rassylok-crm-marketinga.md)
+  * [Как для рассылки загрузить контакты с Excel?](capabilities/rassylka-soobshenii/kak-dlya-rassylki-zagruzit-kontakty-s-excel.md)
+* [Рандомизатор сообщений](capabilities/randomizator.md)
+* [Передача параметров аналитики](capabilities/peredacha-parametrov-analitiki/README.md)
+  * [OLChat Link Modifier — автоматическая подстановка ID посетителя в ссылки мессенджеров](capabilities/peredacha-parametrov-analitiki/olchat-link-modifier-avtomaticheskaya-podstanovka-id-posetitelya-v-ssylki-messendzherov.md)
+  * [Яндекс.Метрика ClientID](capabilities/peredacha-parametrov-analitiki/yandeks.metrika-clientid.md)
+  * [Roistat](capabilities/peredacha-parametrov-analitiki/roistat.md)
+  * [Calltouch](capabilities/peredacha-parametrov-analitiki/calltouch.md)
+  * [Передача параметров аналитики без использования виджета](capabilities/peredacha-parametrov-analitiki/peredacha-parametrov-analitiki-bez-ispolzovaniya-vidzheta.md)
+* [Шорткоды](capabilities/shortkody.md)
 
 ## ВОЗМОЖНОСТИ
 

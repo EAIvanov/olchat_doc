@@ -61,7 +61,7 @@
 3. Мы заботимся о наших клиентах и понимаем, что в череде бесконечных дел, не всегда получается оплатить наш сервис заранее. Теперь, если не оплатили вовремя, коннектор не будет отключен и продолжит работать до конца дня по Москве. Вы сможете оставаться на связи с клиентами, пока производите оплату.
 4. В настройках коннектора добавили возможность устанавливать интервалы между отправкой сообщений в WhatsApp [#5-nastroiki-chata](ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-nastroek-konnektora.md#5-nastroiki-chata "mention")
 5. Мы ценим ваше время, больше не нужно вручную отключать нежелательные сообщения клиентам в настройках Открытой линии. Теперь при первом подключении коннектора Автоматическое приветствие и Оценка качества по умолчанию выключены. Снизили риск блокировок.
-6. При создании WhatsApp-рассылки через CRM-Маркетинг, теперь можно не только просмотреть отчёт в нашем приложении, но и выгрузить его в Excel, чтобы рассчитать конверсию [stranica-prosmotra-statusov-rassylok-crm-marketinga.md](rassylka-soobshenii/stranica-prosmotra-statusov-rassylok-crm-marketinga.md "mention")
+6. При создании WhatsApp-рассылки через CRM-Маркетинг, теперь можно не только просмотреть отчёт в нашем приложении, но и выгрузить его в Excel, чтобы рассчитать конверсию [stranica-prosmotra-statusov-rassylok-crm-marketinga.md](capabilities/rassylka-soobshenii/stranica-prosmotra-statusov-rassylok-crm-marketinga.md "mention")
 7. Обновили робота «Отправка оформленной ссылки». Теперь отправляет с предпросмотром ссылки [otpravka-ssylki.md](roboty-i-aktiviti/roboty/otpravka-ssylki.md "mention")
 
 ### Исправления
@@ -96,7 +96,7 @@
     * Добавлять в название чата текущую стадию лида/сделки, привязанную к диалогу
     * Добавлять параметры из полей сущностей CRM
 
-    Подробнее в статье [#opisanie-parametrov-bota](bot-pomoshnik.md#opisanie-parametrov-bota "mention")
+    Подробнее в статье [#opisanie-parametrov-bota](capabilities/bot-pomoshnik.md#opisanie-parametrov-bota "mention")
 5. Добавили волшебства в работу с товарами Битрикс24. Теперь клиенту отправляется товар в удобочитаемом виде без табличного форматирования. Подробнее в статье [rabota-s-tovarnymi-poziciyami.md](keisy/raznoe/rabota-s-tovarnymi-poziciyami.md "mention")
 6. &#x20;Добавили Робота и Активити бизнес-процессов «Отправка сообщений со списком выбора». Подробнее в статьях Робот: [Broken link](broken-reference "mention") и Активити: [Broken link](broken-reference "mention")
 7. Сделали автоплатёж через Робокассу для тех, кто устал возиться с оплатой каждый месяц
@@ -137,9 +137,9 @@
 * Статусы сообщений (галочки) в чатах открытых линий. [Подробнее](ispolzovanie/poluchenie-i-otpravka-soobshenii/)
 * Удаление сообщений в чатах WhatsApp при удалении чатов из открытой линии. [Подробнее](ispolzovanie/poluchenie-i-otpravka-soobshenii/)
 * Страница отправки сообщений из мобильного приложения Битрикс24. [Подробнее](ispolzovanie/poluchenie-i-otpravka-soobshenii/otpravka-soobshenii-iz-mobilnogo-prilozheniya-bitriks24.md)
-* Страница просмотра статусов рассылок CRM-маркетинга. [Подробнее](rassylka-soobshenii/stranica-prosmotra-statusov-rassylok-crm-marketinga.md)
-* Шорткоды. [Подробнее](shortkody.md)
-* Бот-помощник. [Подробнее](bot-pomoshnik.md)
+* Страница просмотра статусов рассылок CRM-маркетинга. [Подробнее](capabilities/rassylka-soobshenii/stranica-prosmotra-statusov-rassylok-crm-marketinga.md)
+* Шорткоды. [Подробнее](capabilities/shortkody.md)
+* Бот-помощник. [Подробнее](capabilities/bot-pomoshnik.md)
 * Добавление приложения в карточку CRM «Заказы». [Подробнее](ispolzovanie/poluchenie-i-otpravka-soobshenii/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md)
 * Автоответчик. Сообщение клиенту при пропущенном звонке. [Подробнее](capabilities/avtootvetchik.md)
 * Автоответчик. Сообщение клиенту при голосовом сообщении. [Подробнее](capabilities/avtootvetchik.md)
@@ -150,7 +150,7 @@
 * Права доступа к коннектору: Добавлены права на группы и отделы. [Подробнее](https://docs.olchat.io/ustanovka-i-nastroika/nastroika-prav-dlya-raboty-s-prilozheniem-olchat#prava-na-konnektor-linii)
 * Установка прав администратора в приложении (полезно, если поменялся администратор). [Подробнее](https://docs.olchat.io/ustanovka-i-nastroika/nastroika-prav-dlya-raboty-s-prilozheniem-olchat#ustanovka-prav-administratora-v-prilozhenii)
 
-### Бот-помощник. [Подробнее](bot-pomoshnik.md)
+### Бот-помощник. [Подробнее](capabilities/bot-pomoshnik.md)
 
 * Устанавливает тему чата по шаблону
 * Устанавливает и обновляет изображение контакта клиента в CRM
@@ -173,7 +173,7 @@
 
 #### Роботы групп. [Подробнее](gruppovye-chaty/robot-i-aktiviti-biznes-processov-dlya-gruppovykh-chatov/)
 
-### Рассылки. [Подробнее](rassylka-soobshenii/stranica-prosmotra-statusov-rassylok-crm-marketinga.md)
+### Рассылки. [Подробнее](capabilities/rassylka-soobshenii/stranica-prosmotra-statusov-rassylok-crm-marketinga.md)
 
 * Отображение статусов сообщений или ошибок отправки
 * Фильтрация по коннектору

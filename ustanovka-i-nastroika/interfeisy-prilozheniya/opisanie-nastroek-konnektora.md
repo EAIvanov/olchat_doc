@@ -61,7 +61,7 @@
 
 ### Бот-помощник
 
-Подробнее в статье [bot-pomoshnik.md](../../bot-pomoshnik.md "mention")
+Подробнее в статье [bot-pomoshnik.md](../../capabilities/bot-pomoshnik.md "mention")
 
 <figure><img src="../../.gitbook/assets/Скриншот 08.06.25_15.42.29.png" alt=""><figcaption></figcaption></figure>
 

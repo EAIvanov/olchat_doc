@@ -49,7 +49,7 @@
 Со своей стороны мы выдерживаем паузы между отправкой сообщений (15 секунд) и принимаем ряд других технических мер для снижения вероятности блокировки номера.
 
 {% hint style="info" %}
-Также рекомендуем ознакомиться с отдельной статьёй [blokirovka-nomera](../blokirovka-nomera/ "mention") и [настройками интервалов отправки сообщений](https://docs.olchat.io/ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-nastroek-konnektora#intervaly-otpravki-soobshenii).&#x20;
+Также рекомендуем ознакомиться с отдельной статьёй [blokirovka-nomera](../../blokirovka-nomera/ "mention") и [настройками интервалов отправки сообщений](https://docs.olchat.io/ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-nastroek-konnektora#intervaly-otpravki-soobshenii).&#x20;
 {% endhint %}
 
 {% hint style="info" %}
@@ -66,7 +66,7 @@
 
 В форме создания сегмента выберите получателей рассылки с помощью фильтра. После применения система покажет сколько контактов подходит под это условие.
 
-<figure><img src="../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Если в создаваемом сегменте выбрано больше 100 номеров — поработайте с фильтрами и уменьшите размер сегмента
@@ -74,9 +74,9 @@
 
 Сохраните сегмент и создайте новую SMS рассылку.
 
-<figure><img src="../.gitbook/assets/image (404).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (404).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (521).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (521).png" alt=""><figcaption></figcaption></figure>
 
 1. Выберите созданный на предыдущем шаге сегмент, убедитесь, что количество номеров в сегменте не превышает 100.
 2. В качестве сервиса для отправки выберите «OLChat — Чаты и Группы WhatsApp» с нужным коннектором линии.
@@ -85,7 +85,7 @@
 
 Рассылку можно отправить сразу или запланировать отправку на нужное время.
 
-<figure><img src="../.gitbook/assets/image (293).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (293).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Запланированное время — это время, в которое Битрикс24 отправляет к нам рассылку, после этого наш сервис постепенно начинает рассылать сообщения. Для снижения риска блокировки, между отправкой сообщений мы выдерживаем паузы в 15 секунд.
@@ -96,7 +96,7 @@
 Когда осуществляется рассылка через CRM-Маркетинг, Битрикс24 формирует рассылку и отправляет всё к нам. Битрикс24 отправляет из Маркетинга обычно в течение 10-15 минут. \
 Далее наше приложение, используя паузы, отправляет сообщения по указанным номерам. Пауза между сообщениями 15 секунд.
 
-Вы можете увеличить интервалы между отправками сообщений в [настройках коннектора](../ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-nastroek-konnektora.md#intervaly-otpravki-soobshenii). Если вы используете номер в основном для рассылок, интервалы между отправкой помогут снизить риск блокировки. Также вы можете снизить риск блокировки с помощью [наших рекомендаций](https://docs.olchat.io/blokirovka-nomera).
+Вы можете увеличить интервалы между отправками сообщений в [настройках коннектора](../../ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-nastroek-konnektora.md#intervaly-otpravki-soobshenii). Если вы используете номер в основном для рассылок, интервалы между отправкой помогут снизить риск блокировки. Также вы можете снизить риск блокировки с помощью [наших рекомендаций](https://docs.olchat.io/blokirovka-nomera).
 
 ### Почему нужно отправлять рассылку через SMS-функционал, а не через Мессенджеры?&#x20;
 

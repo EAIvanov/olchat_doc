@@ -66,11 +66,11 @@
 
 Полученный шорткод отправим клиенту, используя виджет в карточке сделки
 
-<figure><img src=".gitbook/assets/image (407).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (407).png" alt=""><figcaption></figcaption></figure>
 
 В результате, в WhatsApp придёт сообщение такого вида:
 
-<figure><img src=".gitbook/assets/image (630).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (630).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Используя роботы и активити бизнес-процессов, данную конструкцию шорткода можно собирать и отправлять в автоматическом режиме, указывая в значениях переменные и поля, откуда робот или активити должны взять информацию.
